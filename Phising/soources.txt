@@ -1,0 +1,124 @@
+
+Return-Path: <0100018c58e05dd6-7e490c8f-346f-46ab-acf7-53d3b717e137-000000@amazonses.com>
+Received: from a11-126.smtp-out.amazonses.com (a11-126.smtp-out.amazonses.com. [54.240.11.126]) by mx.google.com with ESMTPS id bt4-20020ad455c4000000b0067aa1223e88si8243525qvb.565.2023.12.11.04.35.48 for <josuemejia1027@gmail.com> (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Mon, 11 Dec 2023 04:35:48 -0800 (PST)
+Received-SPF: pass (google.com: domain of 0100018c58e05dd6-7e490c8f-346f-46ab-acf7-53d3b717e137-000000@amazonses.com designates 54.240.11.126 as permitted sender) client-ip=54.240.11.126;
+Authentication-Results: mx.google.com; dkim=pass header.i=@amazon.com header.s=caxb2jsezaooh2mhsm6hpe5cix6kfyez header.b=Bywj2NgR; dkim=pass header.i=@amazonses.com header.s=224i4yxa5dv7c2xz3womw6peuasteono header.b=eQav84+Q; spf=pass (google.com: domain of 0100018c58e05dd6-7e490c8f-346f-46ab-acf7-53d3b717e137-000000@amazonses.com designates 54.240.11.126 as permitted sender) smtp.mailfrom=0100018c58e05dd6-7e490c8f-346f-46ab-acf7-53d3b717e137-000000@amazonses.com; dmarc=pass (p=QUARANTINE sp=QUARANTINE dis=NONE) header.from=amazon.com
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; s=caxb2jsezaooh2mhsm6hpe5cix6kfyez; d=amazon.com; t=1702298148; h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe; bh=NJDjVbe+dEGXrfF3S3LmtBHOiA3UJsEuR7XeDLRauqE=; b=Bywj2NgREsTmPgicK6hfZEhpJFZDAFs6Ad5k5FMdfq5F9fkN8TAMNpMF3s8sd+VL b4eRs0OELZBbT4qAnC+dA5WJbRk2DzqFoEhsF6CK7dBB79B4d/dh9Ar7JV7ScGZ7mgn crGXswUzkrXaDQfRZ34qwMZgH+4LFgOtocfcnOrc=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; s=224i4yxa5dv7c2xz3womw6peuasteono; d=amazonses.com; t=1702298148; h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe:Feedback-ID; bh=NJDjVbe+dEGXrfF3S3LmtBHOiA3UJsEuR7XeDLRauqE=; b=eQav84+Q49e6vIwTLKuils86jvqsuIamhmDgV/e3qrkZo6mj3VVYV8fjcYC+ybg3 NdQnL9U0quXyVWaOYg6Bfx5XBvMMpvTpFVGfifj9ckO+zyvTakBzti0qEdbPlkIsBQR 0BWGYxNmCJJWKaTmEZaXoV3rykL3rUqqOHHQWld4=
+X-MSFBL: /HPljR+ln7amcIjp7CdosvCF5LmYDll5tc3MuGIZUIo=|eyJnIjoiYmctc2pyLTA zIiwiciI6Impvc3VlbWVqaWExMDI3QGdtYWlsLmNvbSIsImIiOiJkdnAtMTk5LTE 1LTIxNS02NCIsInUiOiIxMTItVFpNLTc2NjowOjY0ODgyOTo0MDczOTgxOjE5OTQ 3MDkxOjkyNDUyMTo5OjU0NzYxOTk6MTAxNDUzODg5MS0xMCJ9
+Date: Mon, 11 Dec 2023 12:35:48 +0000
+From: Amazon Web Services <aws-marketing-email-replies@amazon.com>
+Reply-To: aws-marketing-email-replies@amazon.com
+To: josuemejia1027@gmail.com
+Message-ID: <0100018c58e05dd6-7e490c8f-346f-46ab-acf7-53d3b717e137-000000@email.amazonses.com>
+Subject: Reg??strese al resumen de re:Invent para Latinoam??rica
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_572598070_869526729.1702297622973"
+X-Binding: bg-sjr-03
+List-Unsubscribe: <mailto:OBJS24ZVMV3VGWCWINNFI6SPJRVXUSKNMFETGQTZGVXUE33WKVEDG32SL5CHA4LNNVBE2PI=.5476199.924521.9@unsub-sj.mktomail.com>
+X-MarketoID: 112-TZM-766:0:648829:4073981:19947091:924521:9:5476199:1014538891-10
+X-PVIQ: mkto-112TZM766-000001-000005-476199
+X-Mailfrom: 112-TZM-766.0.5476199.0.0.924521.9.1014538891-10@em-sj-77.mktomail.com
+X-MktArchive: false
+X-MSYS-API: {"options":{"open_tracking":false,"click_tracking":false}}
+X-AMAZON-MAIL-RELAY-REDIR: bb9b4539191b44348ef966232b7968de
+Feedback-ID: 1.us-east-1.RV8Dsk7NvPH6aSFSPkfOynRPdT4LmMC2IC5pG2cIn10=:AmazonSES
+X-SES-Outgoing: 2023.12.11-54.240.11.126
+
+Source:
+The source host name is "a11-126.smtp-out.amazonses.com" and the source IP address is 54.240.11.126.
+
+IP Address	54.240.11.126
+Country	 United States of America 
+Region & City	Virginia, Ashburn
+Coordinates	39.039474, -77.491809 (39°2'22"N   77°29'31"W)
+ISP	Amazon Web Services Inc.
+Local Time	11 Dec, 2023 09:32 PM (UTC -05:00)
+Domain	amazon.com
+Net Speed	(T1) Data Center/Transit
+IDD & Area Code	(1) 703
+ZIP Code	20146
+Weather Station	Ashburn (USVA0027)
+Mobile Carrier	-
+Mobile Country Code (MCC)	-
+Mobile Network Code (MNC)	-
+Elevation	83m
+Usage Type	(DCH) Data Center/Web Hosting/Transit
+Category	(IAB19-11) Data Centers
+District	Loudoun County
+ASN	14618
+AS	Amazon.com Inc.
+------------------------------------------------------------------------------------------
+Return-Path: <bounce@engage.microsoft.com>
+Received: from r27.engage.microsoft.com (r27.engage.microsoft.com. [172.82.208.27])
+        by mx.google.com with ESMTPS id y11-20020a62ce0b000000b006ce9cbcc8desi1503113pfg.247.2023.12.08.05.10.54
+        for <david2003jdmm@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 08 Dec 2023 05:10:54 -0800 (PST)
+Received-SPF: pass (google.com: domain of bounce@engage.microsoft.com designates 172.82.208.27 as permitted sender) client-ip=172.82.208.27;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@engage.microsoft.com header.s=mscom header.b=U6wCJ3Zi;
+       spf=pass (google.com: domain of bounce@engage.microsoft.com designates 172.82.208.27 as permitted sender) smtp.mailfrom=bounce@engage.microsoft.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=engage.microsoft.com
+Return-Path: <bounce@engage.microsoft.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=engage.microsoft.com; s=mscom; t=1702040869; bh=ewVvX4yxFfhjGIRdiOhD6K/XGGbyFCrhwekdX8GPDxE=; h=From:Date:Subject:To:MIME-Version:Message-ID:Content-Type; b=U6wCJ3Zi55I75z3thoctLe8DQ1qs31BNzHxXzC8acKd4SvNp8TVdJK3tae4EU07RD
+	 dalGC+XwgD2nEOBp01TibYzUFnTTlPglVoSGno98zRRcYmNV9gRAuMTL907+oIJXXS
+	 IjX9CvCNVhoy6M+RTrhtR0nfZfU+0mpiQhiqTTmOViSGVEB1xOl88LCGBf74gYKLxu
+	 9M4mxZ+kopDCXKLp+dn3l2wTrgzC2FaMleVOfMx/4mS4S58XdYR/KPIS1iDyM7Ut0n
+	 V7MVRqUGc4RKZdd6q22e2TGAzEbPFZmyAZrR+qkfGUPsp8Pw14v4YSj+Mo2bw7ebvp
+	 4pjP2RMfeS0iA==
+X-MSFBL: bCS5157GMvtC7UXskBy6wSF3qZjqUsZGhFJ1tgMDAb0=|eyJiIjoiYXp1cmVfbXN jb21fcHJvZDc4X2JhdGNodHJpZ2dlcm1hcmtldGluZ19tb21lbnR1bTU4X210YTA wNV8xNzIuODIuMjA4LjI3IiwiZyI6ImJhdGNodHJpZ2dlcm1hcmtldGluZ18xZTc 1YzMzYS05N2E0LTQ3M2MtYWE4Yy05OGFkZjVhYWFjMjMiLCJyIjoiZGF2aWQyMDA zamRtbUBnbWFpbC5jb20iLCJyY3B0X21ldGEiOnsgImluIjogIm1zY29tX21rdF9 wcm9kNzgiLCAiciI6ICJkYXZpZDIwMDNqZG1tQGdtYWlsLmNvbSIsICJtIjogIjE 4NDgxNjQ5ODIiLCAiZCI6ICI3NjEzNzEyNDgiLCAiaSI6ICJFQTc2QURFOTU3NzZ EMkVDN0YwMDAxMDFAQWRvYmVPcmciIH19
+Received: from [10.35.46.91] ([10.35.46.91:48735] helo=r30.engage.microsoft.com) by momentum58.or1.cpt.adobe.net (envelope-from <bounce@engage.microsoft.com>) (ecelerity 4.2.38.999 r(:)) with ESMTP id 24/A7-17507-52513756; Fri, 08 Dec 2023 05:07:49 -0800
+From: Microsoft <Microsoft@engage.microsoft.com>
+Date: Fri, 08 Dec 2023 05:07:41 -0800
+Subject: Consigue experiencias de IA personalizadas de Windows
+To: <david2003jdmm@gmail.com>
+Reply-To: noreply <replies@microsoft.com>
+MIME-Version: 1.0
+X-mailer: nlserver, Build 7.0.0.10663
+Message-ID: <AC7000000006E28C2762D619A70mscom_mkt_prod78@engage.microsoft.com>
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+ Sender
+IP Address	7.0.0.106
+Country	 United States of America 
+Region & City	Ohio, Columbus
+Coordinates	39.966380, -83.012770 (39°57'59"N   83°0'46"W)
+ISP	DoD Network Information Center
+Local Time	11 Dec, 2023 09:28 PM (UTC -05:00)
+Domain	nic.mil
+Net Speed	(COMP) Corporate
+IDD & Area Code	(1) 614
+ZIP Code	43218
+Weather Station	Columbus (USOH0212)
+Mobile Carrier	-
+Mobile Country Code (MCC)	-
+Mobile Network Code (MNC)	-
+Elevation	231m
+Usage Type	(MIL) Military
+Category	(IAB4-10) U.S. Military
+District	Franklin County
+ASN	749
+AS	DoD Network Information Center
+IP Address	172.82.208.27
+Country	 United States of America 
+Region & City	Utah, Lehi
+Coordinates	40.393089, -111.845879 (40°23'35"N   111°50'45"W)
+ISP	Adobe Inc.
+Local Time	11 Dec, 2023 07:28 PM (UTC -07:00)
+Domain	adobe.com
+Net Speed	(T1) Data Center/Transit
+IDD & Area Code	(1) 801
+ZIP Code	84043
+Weather Station	Lehi (USUT0142)
+Mobile Carrier	-
+Mobile Country Code (MCC)	-
+Mobile Network Code (MNC)	-
+Elevation	1392m
+Usage Type	(DCH) Data Center/Web Hosting/Transit
+Category	(IAB19-13) Desktop Publishing
+District	Utah County
+ASN	15224
+AS	Adobe Inc.
+--------------------------------------------------------------------------------
+

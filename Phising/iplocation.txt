@@ -1,0 +1,202 @@
+
+
+Geolocation data from IP2Location (Product: DB6, 2023-12-1)
+
+IP ADDRESS:
+172.82.208.27
+
+COUNTRY:
+United States 
+
+REGION:
+Utah
+
+CITY:
+Lehi
+
+ISP:
+Adobe Inc.
+
+ORGANIZATION:
+Not available
+
+LATITUDE:
+40.3931
+
+LONGITUDE:
+-111.8459
+Geolocation data from ipinfo.io (Product: API, real-time)
+
+IP ADDRESS:
+172.82.208.27
+
+COUNTRY:
+United States 
+
+REGION:
+Washington
+
+CITY:
+Seattle
+
+ISP:
+Not available
+
+ORGANIZATION:
+AS15224 Adobe Inc.
+
+LATITUDE:
+47.6062
+
+LONGITUDE:
+-122.3321
+Geolocation data from DB-IP (Product: API, real-time )
+
+IP ADDRESS:
+172.82.208.27
+
+COUNTRY:
+Andorra 
+
+REGION:
+Andorra la Vella
+
+CITY:
+Andorra la Vella
+
+ISP:
+Adobe Inc.
+
+ORGANIZATION:
+Adobe Inc
+
+LATITUDE:
+42.5063
+
+LONGITUDE:
+1.52184
+Geolocation data from IPregistry.co (Product: API, real-time)
+
+IP ADDRESS:
+172.82.208.27
+
+COUNTRY:
+United States 
+
+REGION:
+Utah
+
+CITY:
+Lehi
+
+ISP:
+Adobe Inc.
+
+ORGANIZATION:
+Adobe Inc. (adobe.com)
+
+LATITUDE:
+40.39317
+
+LONGITUDE:
+-111.84584
+Geolocation data from IPGeolocation.io (Product: API, real-time)
+
+IP ADDRESS:
+172.82.208.27
+
+COUNTRY:
+United States 
+
+REGION:
+Utah
+
+CITY:
+Lehi
+
+ISP:
+Adobe Inc.
+
+ORGANIZATION:
+Adobe Inc.
+
+LATITUDE:
+40.43505
+
+LONGITUDE:
+-111.89180
+Geolocation data from IPapi.co (Product: API, real-time)
+
+IP ADDRESS:
+172.82.208.27
+
+COUNTRY:
+Andorra 
+
+REGION:
+Andorra la Vella
+
+CITY:
+Andorra la Vella
+
+ISP:
+OMNITURE
+
+ORGANIZATION:
+OMNITURE
+
+LATITUDE:
+42.5055
+
+LONGITUDE:
+1.5243
+Geolocation data from ipbase.com (Product: API, real-time)
+
+IP ADDRESS:
+172.82.208.27
+
+COUNTRY:
+United States 
+
+REGION:
+Utah
+
+CITY:
+Lehi
+
+ISP:
+Adobe Inc.
+
+ORGANIZATION:
+Adobe Inc.
+
+LATITUDE:
+40.3931
+
+LONGITUDE:
+-111.8459
+Geolocation data from criminalip.io (Product: API, real-time)
+
+IP ADDRESS:
+172.82.208.27
+
+COUNTRY:
+United States 
+
+REGION:
+Not available
+
+CITY:
+Not available
+
+ISP:
+Not available
+
+ORGANIZATION:
+Adobe Systems
+
+LATITUDE:
+37.7510
+
+LONGITUDE:
+-97.8220

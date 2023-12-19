@@ -1,0 +1,36 @@
+	Alex Harris <happymanharris@gmail.com>
+
+SPF:	PASS con la IP 209.85.220.41
+	<CAFpuhkXwz7yWWZMe-GS4aOt5A0Rvn77xNUqbfE=cfi=T3dDDBA@mail.gmail.com> 
+----------------------------------------------------------------------------------------
+	<983413178.94026344.1700058745470.JavaMail.zimbra@fibertel.com.ar>
+	John Roland <estudiomastroianni@fibertel.com.ar> Con Zimbra 8.6.0_GA_1191 (ZimbraWebClient - GC86 (Win)/8.6.0_GA_1191)
+PASS con la IP 24.232.0.192
+--------------------------------------------------------------------------------------------
+ID de mensaje	<E1r0PPQ-00059G-2i@s1.reliablepanel.com>
+De:	Maryann Jones <MaryannJones.atl@technologist.com>
+SPF:	PASS con la IP 144.76.114.106 Más información
+--------------------------------------------------------------------------------------------
+
+ID de mensaje	<20231107142854.4C565DD3DE@mailhosting.precisioncluster.com>
+De:	Morgan <hrd@jeyyamfoods.in>
+SPF:	PASS con la IP 115.114.95.42 
+---------------------------------------------------------------------------------------------
+	ID de mensaje	<CAM9r++j2stNyqX7kQ6zXvzV9vCj-PXPfEvBRheToKem7-AypQA@mail.gmail.com>
+Creado a las:	5 de noviembre de 2023, 19:00 (entregado en 1 segundo)
+De:	Clifford Milton <miltonclifford77@gmail.com>
+Para:	david2003jdmm@gmail.com
+Asunto:	Hi +526123486628, 🌫️💯👊🏼☪️ would like to chat with you on Skype. It's free!
+SPF:	PASS con la IP 209.85.220.41 Más información
+DKIM:	'PASS' con el dominio gmail.com Más información
+DMARC:	'PASS' Más información
+---------------------------------------------------------------------------------------------
+ID de mensaje	<CAFrWHdt1oAtNL3x-Pua3ediwRtXWUGK5LViAQhWcb9xoQ_uYOA@mail.gmail.com>
+Creado a las:	5 de noviembre de 2023, 17:07 (entregado en 11 segundos)
+De:	John Jackson <johnjacksonotf@gmail.com>
+Para:	david2003jdmm@gmail.com
+Asunto:	
+SPF:	PASS con la IP 209.85.220.41 Más información
+DKIM:	'PASS' con el dominio gmail.com Más información
+DMARC:	'PASS' Más información
+---------------------------------------------------------------------------------------------

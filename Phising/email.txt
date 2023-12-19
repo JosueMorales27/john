@@ -1,0 +1,1968 @@
+morganlilian621@gmail.com
+
+Morgan <hrd@jeyyamfoods.in>
+ID de mensaje	<20231107142854.4C565DD3DE@mailhosting.precisioncluster.com>
+Creado a las:	7 de noviembre de 2023, 6:28 (entregado en 2891 segundos)
+De:	Morgan <hrd@jeyyamfoods.in>
+Para:	Recipients <hrd@jeyyamfoods.in>
+Asunto:	LOAN
+SPF:	PASS con la IP 115.114.95.42 Más información
+DMARC:	'PASS' Más información
+
+
+Descargar original	Copiar en el portapapeles	
+Delivered-To: david2003jdmm@gmail.com
+Received: by 2002:ac9:53f3:0:b0:4fb:734c:3fdf with SMTP id q51csp350340ocu;
+        Tue, 7 Nov 2023 07:16:57 -0800 (PST)
+X-Google-Smtp-Source: AGHT+IG7Ta+3MKUZuUx8kxM/YNHb4RvNpHL1uFSdPLyEASHnhLQfdkvPw9W+TFClo94K/wsqUur/
+X-Received: by 2002:a05:6a00:3911:b0:6c3:710b:38d7 with SMTP id fh17-20020a056a00391100b006c3710b38d7mr13618856pfb.6.1699370217450;
+        Tue, 07 Nov 2023 07:16:57 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1699370217; cv=none;
+        d=google.com; s=arc-20160816;
+        b=Y5TEbdzmHYLGG4tW7W5Hns8PwZDv07OJnEm0szJRCv/RX9BQpjLBLvYMsAt8zgx2FP
+         SNngA+CDkACjC4Mp6aX42ni9kT4Gaxje+qFXKuVWXMHcvFtxJMdUx8oW20Yyl8nANA44
+         ceEqjLZmh/n7u12f3iLB4Epr1v0cERFJelK+Yco3kv37jN9DEwM9sbpmLwsK9s4UpEzI
+         eJ9cjNV0gnu4IwdUZmQIE7owz/d8TsIvSZotA9bZcPZ4y3lN0JlnOF8CCG3ag8b+M96D
+         75xDcmM4LG/t8w/fV+JyHZCpY5M8z0aAk1dMkB6b0v/r73dNtJsG+ddYfX+8R9PbP3Ub
+         dTUQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=message-id:reply-to:date:from:to:subject:content-description
+         :content-transfer-encoding:mime-version;
+        bh=3K3N/LW1oosndAyYqrxWW96d5FyLXTm6F3/GtNcq41g=;
+        fh=0g220IMmjCI9o02xjlFKk1ZvCGtfU9NY6rHLxydwBEg=;
+        b=f8MOAQyyIYAbXObbw7Fc8YzMW5CIU4+L01r+5L3rp1hG8c2zkaU8S3EW0SXJjly7oQ
+         8XX6tL+M6/dCfQxrWK8Voee5HJQejfr+1Y/TVzx5awxxzM5a4o4UBqDSLavBmhUpKad8
+         u6KojKNRvMtS+0W8olNPXEvL84j6UQzmFX4O4G5TqNTHbcKgUMIjSbiycR0uRwy+N8Bd
+         YrNentYf3WyCXvPcd9lAf7lRR9ZT0DtFcRrxj22/FWgqb9+4OhzWMkthM9qAxIIKW1ej
+         qDUVvl161vgEaPZ7VNMbdLWAh9L+1UCEJhaKSQyh/lpo4tkR06WD3F2tSUDJqBPbqJXA
+         GRTg==
+ARC-Authentication-Results: i=1; mx.google.com;
+       spf=pass (google.com: domain of hrd@jeyyamfoods.in designates 115.114.95.42 as permitted sender) smtp.mailfrom=hrd@jeyyamfoods.in;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=jeyyamfoods.in
+Return-Path: <hrd@jeyyamfoods.in>
+Received: from mailhosting.precisioncluster.com (mailhosting.precisioncluster.com. [115.114.95.42])
+        by mx.google.com with ESMTP id ei37-20020a056a0080e500b006c34a6de9d2si10101798pfb.368.2023.11.07.07.16.57
+        for <david2003jdmm@gmail.com>;
+        Tue, 07 Nov 2023 07:16:57 -0800 (PST)
+Received-SPF: pass (google.com: domain of hrd@jeyyamfoods.in designates 115.114.95.42 as permitted sender) client-ip=115.114.95.42;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of hrd@jeyyamfoods.in designates 115.114.95.42 as permitted sender) smtp.mailfrom=hrd@jeyyamfoods.in;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=jeyyamfoods.in
+Received: from localhost (localhost [127.0.0.1]) by mailhosting.precisioncluster.com (Postfix) with ESMTP id 4C565DD3DE for <david2003jdmm@gmail.com>; Tue,
+  7 Nov 2023 19:58:54 +0530 (IST)
+X-Virus-Scanned: amavisd-new at mailhosting.precision.com
+Received: from mailhosting.precisioncluster.com ([127.0.0.1]) by localhost (mailhosting.precision.com [127.0.0.1]) (amavisd-new, port 10024) with ESMTP id 7RQ1BNg64KOk for <david2003jdmm@gmail.com>; Tue,
+  7 Nov 2023 19:58:54 +0530 (IST)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+Received: from [87.120.84.37] (unknown [87.120.84.37]) by mailhosting.precisioncluster.com (Postfix) with ESMTP id 074A9DD3A2; Tue,
+  7 Nov 2023 19:58:49 +0530 (IST)
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+Subject: LOAN
+To: Recipients <hrd@jeyyamfoods.in>
+From: Morgan <hrd@jeyyamfoods.in>
+Date: Tue, 07 Nov 2023 06:28:46 -0800
+Reply-To: morganlilian621@gmail.com
+Message-Id: <20231107142854.4C565DD3DE@mailhosting.precisioncluster.com>
+
+Do you need a loan to start up your own business? at 2% rate? between
+$5,000.00 to $20,000,000.00 and also with this information below such
+as (1)Full Names:,(2)Country:,(3)Loan Amount):,(4)Loan
+duration:,(5)Phone Number:. Contact Us With This Email:
+morganlilian621@gmail.com
+---------------------------------------------------------------------------------------------
+MaryannJones.atl@technologist.com
+ID de mensaje	<E1r0PPQ-00059G-2i@s1.reliablepanel.com>
+Creado a las:	7 de noviembre de 2023, 8:58 (entregado en 5 segundos)
+De:	Maryann Jones <MaryannJones.atl@technologist.com>
+Para:	david2003jdmm@gmail.com
+Asunto:	Good Day Josue Morales, New Job! Work Close to Home T98
+SPF:	PASS con la IP 144.76.114.106 Más información
+DKIM:	'PASS' con el dominio rahmatmomin.com Más información
+DMARC:	'FAIL' Más información
+
+
+Descargar original	Copiar en el portapapeles	
+Delivered-To: david2003jdmm@gmail.com
+Received: by 2002:ac9:53f3:0:b0:4fb:734c:3fdf with SMTP id q51csp413964ocu;
+        Tue, 7 Nov 2023 08:58:42 -0800 (PST)
+X-Google-Smtp-Source: AGHT+IFx1yzEKlbdk8G8O0f9nnRVbSkfxLs6eyMj4Bf0igh8jgzsxXSC6ce+bX9dsOtBj/XgdDyF
+X-Received: by 2002:adf:eecc:0:b0:32d:9332:8168 with SMTP id a12-20020adfeecc000000b0032d93328168mr25033141wrp.54.1699376321806;
+        Tue, 07 Nov 2023 08:58:41 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1699376321; cv=none;
+        d=google.com; s=arc-20160816;
+        b=EtjHLcdF25JxID/cmW1bc9jimnICpt9BA9/fr2F0MmJ8aiTeziVTAhls4tWZd3vDff
+         PR8RfPBXPn4c0cjQEeilFGIFJ7W3vFPbxPkFYwMX29JFMemHqW3GTTnH/0B+hsxUA/7m
+         PXJXJWrS7TEOjIUhzjy54l4l/DpJ9EgVBDox3U11RiDYPlkgP0pEwtrJG7L9T+0uuKLl
+         qy89qdfNgqEDosRp6Z5t3bNfMsfiJmzpDIVYFKYSWkxxJkAy3NLK6alQEHupupKkO2ye
+         yV8N0gxHW9mU1DTRtDWyIQoHLwMTOIv8fIQ+wbSNqz0MpjtSGvc2ejjxf2YAf/M57tb4
+         uvHw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=date:message-id:reply-to:from:mime-version:subject:to
+         :dkim-signature;
+        bh=SmxVKI5HmGiSAmNZoc7nyc3Yy6oaSwTWIRJWLaiNxDE=;
+        fh=H8aH6v56M/Ff+Gv4cGoCTGhJfE5HZRbL/61OaujKtac=;
+        b=M5XQTqXKLRJfi/L5PeLVjs/F1uTCjGSimeMbw5HQguVv9F2zZze2X4a47q3B1Z9C6Q
+         JcrXP0NBvfw+DoAWuHWlVSUwf7M1qAjMzfZnurcGR7i6GoKUAOUjExNQ/dxNvgsYGoxj
+         XhUwZ7/JNSZmxkUc7CZBiwSPDZ1fVfdmubivKTwxceq7pMq0JycaHViff5KjABvV6vU3
+         9+uq1iXsO0koj2BwI3o/w5CST4n/4iJUZgbzNQvzFWH8XPyVgeyZW4paA6synersXeng
+         p1sXfhylxri23EAvxiw2A2FrsQs0UDZ7Vs4yhb11esCiiMF0N1WNEmcrgSCoW0+9cyYy
+         5HiA==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@rahmatmomin.com header.s=default header.b=pYZE1HTp;
+       spf=pass (google.com: domain of rahmatmo@s1.reliablepanel.com designates 144.76.114.106 as permitted sender) smtp.mailfrom=rahmatmo@s1.reliablepanel.com;
+       dmarc=fail (p=NONE sp=NONE dis=NONE) header.from=technologist.com
+Return-Path: <rahmatmo@s1.reliablepanel.com>
+Received: from s1.reliablepanel.com (s1.reliablepanel.com. [144.76.114.106])
+        by mx.google.com with ESMTPS id s1-20020adfea81000000b0032f7d67baf8si2067590wrm.1057.2023.11.07.08.58.41
+        for <david2003jdmm@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 07 Nov 2023 08:58:41 -0800 (PST)
+Received-SPF: pass (google.com: domain of rahmatmo@s1.reliablepanel.com designates 144.76.114.106 as permitted sender) client-ip=144.76.114.106;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@rahmatmomin.com header.s=default header.b=pYZE1HTp;
+       spf=pass (google.com: domain of rahmatmo@s1.reliablepanel.com designates 144.76.114.106 as permitted sender) smtp.mailfrom=rahmatmo@s1.reliablepanel.com;
+       dmarc=fail (p=NONE sp=NONE dis=NONE) header.from=technologist.com
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=rahmatmomin.com; s=default; h=Date:Message-Id:Reply-To:From:Content-Type: MIME-Version:Subject:To:Sender:Cc:Content-Transfer-Encoding:Content-ID: Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc :Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe: List-Subscribe:List-Post:List-Owner:List-Archive; bh=SmxVKI5HmGiSAmNZoc7nyc3Yy6oaSwTWIRJWLaiNxDE=; b=pYZE1HTpJ71tvdaJBTHxHXpi69 Jk2lEbswSy5iC7Z41MlWhRij08LkaHGHlYVM56lzkl+JrYp2I0f/Pudkzq9B4RXJclt4RqKhvp1xn lHAHU2Dg0Ct56125zPIW/oqiQIhYg2hMste8GDupjXKv/xco2/niPSL4xFPpmiOFw29tz2aBOcvKx jE0MVuBSM15REUS5asQuN0ZYo+6gFEI1bYG78h1d1KXQYOQoxhgziuNC25nZdKfjdtRUIbfJYEVky H7oNdDLbJpAcz4rugaUwYGcuTqEnV61YRn0N7VI17HxZpyI1QvPVqOOUxCZCUwbScgz91CrvQNdug 0NGV+2VQ==;
+Received: from rahmatmo by s1.reliablepanel.com with local (Exim 4.96.2) (envelope-from <rahmatmo@s1.reliablepanel.com>) id 1r0PPQ-00059G-2i for david2003jdmm@gmail.com; Tue, 07 Nov 2023 21:28:36 +0430
+To: david2003jdmm@gmail.com
+Subject: Good Day Josue Morales, New Job! Work Close to Home T98
+X-PHP-Script: rahmatmomin.com/asio.php for 188.119.66.99, 188.119.66.99
+X-PHP-Originating-Script: 1523:m2ytyjfty0edzzmzn0mzykvdmyuznkbtm.mdnkv
+MIME-Version: 1.0
+Content-Type: multipart/alternative;boundary=b1e14d2d7414d6d5632673e07b819bc6
+From: Maryann Jones <MaryannJones.atl@technologist.com>
+Reply-To: MaryannJones.atl@technologist.com
+Message-Id: <E1r0PPQ-00059G-2i@s1.reliablepanel.com>
+Date: Tue, 07 Nov 2023 21:28:36 +0430
+X-cPanel-MailScanner-Information: Please contact the ISP for more information
+X-cPanel-MailScanner-ID: 1r0PPQ-00059G-2i
+X-cPanel-MailScanner: Found to be clean
+X-cPanel-MailScanner-SpamCheck: 
+X-cPanel-MailScanner-From: rahmatmo@s1.reliablepanel.com
+X-Spam-Status: No
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - s1.reliablepanel.com
+X-AntiAbuse: Original Domain - gmail.com
+X-AntiAbuse: Originator/Caller UID/GID - [1523 993] / [47 12]
+X-AntiAbuse: Sender Address Domain - s1.reliablepanel.com
+X-Get-Message-Sender-Via: s1.reliablepanel.com: authenticated_id: rahmatmo/only user confirmed/virtual account not confirmed
+X-Authenticated-Sender: s1.reliablepanel.com: rahmatmo
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+--b1e14d2d7414d6d5632673e07b819bc6
+Content-type: text/plain;charset=utf-8
+Content-Transfer-Encoding: base64
+
+WW91ciBKb2IgQXBwbGljYXRpb24gSm9zdWUgTW9yYWxlcywKCkNvbXBhbnnigJlzIGdvYWwgaXMg
+dG8gZW5zdXJlIG1pbGxpb25zIG9mIGluZGl2aWR1YWxzIGFuZCBidXNpbmVzc2VzIGluIGZ1bGZp
+bGwgQU1MIGd1aWRhbmNlIHRoYXQgdGhlIHdvcmxkIG5vdyBhcHBsaWVzIGZvciBncmFudGVkLgpB
+IGdyb3dpbmcgcHJlc2VuY2UgaW4gdGhlIFVTQSwgd2Ugb2ZmZXIgb3Bwb3J0dW5pdGllcyBwcm92
+aWRpbmcgZW5kbGVzcyB0cnVzdC4gQW4gZW1wbG95ZWUgd2lsbCBhbHNvIHByb3ZpZGUgZmVlZGJh
+Y2sgdG8gbWFuYWdlbWVudCBvbiBpbmNyZWFzaW5nIFNBUiByZXBvcnRpbmcuCgpQb3NpdGlvbjog
+QmFuayBRdWFsaXR5IENvbnRyb2wgTWFuYWdlcgpXb3JrIHR5cGU6IEZ1bGwtdGltZQpQYXkgcmF0
+ZTogJDMsMTAwIHBlciBtb250aCtib251c2VzIAoKUmVzcG9uc2liaWxpdGllczoKCiAgLSBQcm92
+aWRlIGFuIGluLWRlcHRoIHJldmlldyBvZiBBTUwgcHJvY2VkdXJlczsKICAtIE1haW50YWluIHRo
+ZSBndWlkYW5jZSB1c2VkIHRvIGdpdmUgdGhlIHF1YWxpdHkgZmVlZGJhY2s7CiAgLSBFbmdhZ2Ug
+aW4gcXVhbGl0eSBpbnNwZWN0aW9ucyBhbmQgaW50ZXJuYWwvZXh0ZXJuYWwgYXVkaXQ7CiAgLSBB
+c3Npc3Qgd2l0aCBzb2x1dGlvbnMgdG8gY2xpZW50c+KAmSByZXF1ZXN0cyBhbmQgZmVlZGJhY2s7
+CiAgLSBEZXZlbG9wIHJlcG9ydHMgZm9yIFNlbmlvciBNYW5hZ2VtZW50OwogIC0gT3JnYW5pemUg
+ZGVwYXJ0bWVudGFsIGRldGVjdGluZyBhbmQgcHJldmVudGluZzsKICAtIFJldmlldyBmaWxlZCBT
+QVJzIHRvIGRldGVjdCB0aGV5IGZvbGxvdyBCYW5rIFNlY3JlY3kgQWN0IHByb2NlZHVyZXMuCgpR
+dWFsaWZpY2F0aW9ucwoKICAtIEhpZ2ggc2Nob29sIGRpcGxvbWEsIG9yIGVxdWl2YWxlbnQgY2Vy
+dGlmaWNhdGlvbiBvZiBjb21wZXRlbmN5OwogIC0gRXhwZXJpZW5jZSB3aXRoIGJhbmtpbmcgYWdy
+ZWVtZW50cywgZXRjLjsKICAtIENhcGFiaWxpdHkgdG8gcHJvY2VzcyBpbmZvcm1hdGlvbiBhbmQg
+dG8gZ2l2ZSBmZWVkYmFjayBlZmZlY3RpdmVseSB3aXRoIHBlb3BsZTsKICAtIFN0cm9uZyBvcmdh
+bml6YXRpb25hbCBza2lsbHM7CiAgLSBIaWdoIGNvbW11bmljYXRpb24gc2tpbGxzOwogIC0gU3Ry
+b25nICBNUyBza2lsbHM6IEV4Y2VsLCBXb3JkLgoKSWYgeW91IGFyZSBpbnRlcmVzdGVkLCBwbGVh
+c2UsIGZlZWwgZnJlZSB0byBzZW5kIHlvdXIgYW5zd2VyIGFuZCBwcm92aWRlIGEgY2FsbC1iYWNr
+IG51bWJlciBhbmQgb25lIG9mIG91ciBIUi1tYW5hZ2VycyB3aWxsIGdldCBpbiB0b3VjaCB3aXRo
+IHlvdS4=
+--b1e14d2d7414d6d5632673e07b819bc6--
+
+-------------------------------------------------------------------------------------
+johnroland0290@gmail.com
+estudiomastroianni@fibertel.com.ar
+ID de mensaje	<387050984.94024706.1700058587538.JavaMail.zimbra@fibertel.com.ar>
+Creado a las:	15 de noviembre de 2023, 6:29 (entregado en 76 segundos)
+De:	John Roland <estudiomastroianni@fibertel.com.ar> Con Zimbra 8.6.0_GA_1191 (ZimbraWebClient - GC86 (Win)/8.6.0_GA_1191)
+Para:	
+Asunto:	
+SPF:	PASS con la IP 24.232.0.238 Más información
+
+
+Descargar original	Copiar en el portapapeles	
+Delivered-To: david2003jdmm@gmail.com
+Received: by 2002:a8a:d07:0:b0:4fb:734c:3fdf with SMTP id v7csp2596330ocw;
+        Wed, 15 Nov 2023 06:31:04 -0800 (PST)
+X-Google-Smtp-Source: AGHT+IENc/z/J2FGH21xl1A8vNE0MlGnhiJXzrYS46q2vc2vNvPpY6MIjMt91Vh4IQLL4O+/G2vM
+X-Received: by 2002:a17:90b:3808:b0:283:2805:7c7a with SMTP id mq8-20020a17090b380800b0028328057c7amr10185415pjb.43.1700058663582;
+        Wed, 15 Nov 2023 06:31:03 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1700058663; cv=none;
+        d=google.com; s=arc-20160816;
+        b=b2o7eNs9ywGvMAm9SgV3WZ5IOM59GzziER7kU2FU3YWYRjyzNteCYK2aqwzIfrarpx
+         vYN3NtouuouSyRQFQlU3iLlyZ7HHFjqb2acB9X8HE9LTPGyUw2kHJSB+2vzQUSX/tLHL
+         mG0tc/NlIHKMLT1jpPcU78Uhmasl6e4Kb4lekAiZPa9wyGedaS70mRaOpfFx5F/pTea+
+         Qb5Hn2oMDdDhWMJG4HIIZM8nqH4D27V407ApZTy3uJ5XOf9W9rKd+jlimfZAXwofdFno
+         hJ7AZAdW4wdx3g3l9DFxkoThzUGV2JVRvUIr6XP662RApFfl8nfUs61lalC2zRsRZHEP
+         cUtQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=thread-index:thread-topic:mime-version:subject:message-id:reply-to
+         :from:date;
+        bh=oj0jAZZYldZuIPpuP/gEVxXU6ei+gYhTY9AK/LdqWxQ=;
+        fh=47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=;
+        b=IpBo0jeoMwNwYVS2TL+1iidjd+JtR0kwBpGTDTjsy98XnvnpCkqVHwKY2xA73kucAf
+         kug88zbDq0U+lrRIOzYg0i/h3oicF3h399ZGZ7n0xZnN+zibvyI1wjwleRYJkA4obDK/
+         E1gBWds9aAomAsqsx/fNAW9SOH5IjqM2FKbQdkDbC6+/rw5+u7FtgR7TFqlDymVql+PV
+         R5jWaD0rNEuyGcYfer4oSVQWCn59jHxqWK5EDqu1b1f0ad9aunAXw60VwPS727FnLuxX
+         UAvVMXnU4XMXntb5jJVFKDVOkaXoRRw+TDt/36GALkzU1oWZJtoJpEzzXw2iv77+mPm0
+         2ZqQ==
+ARC-Authentication-Results: i=1; mx.google.com;
+       spf=pass (google.com: domain of estudiomastroianni@fibertel.com.ar designates 24.232.0.238 as permitted sender) smtp.mailfrom=estudiomastroianni@fibertel.com.ar
+Return-Path: <estudiomastroianni@fibertel.com.ar>
+Received: from smtp.fibertel.com.ar (avasmr05-slo1.fibertel.com.ar. [24.232.0.238])
+        by mx.google.com with ESMTPS id qb12-20020a17090b280c00b00280352e52dcsi11023728pjb.119.2023.11.15.06.31.02
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 15 Nov 2023 06:31:03 -0800 (PST)
+Received-SPF: pass (google.com: domain of estudiomastroianni@fibertel.com.ar designates 24.232.0.238 as permitted sender) client-ip=24.232.0.238;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of estudiomastroianni@fibertel.com.ar designates 24.232.0.238 as permitted sender) smtp.mailfrom=estudiomastroianni@fibertel.com.ar
+Received: from localhost (localhost [127.0.0.1]) by avasmr05-slo1.int.fibertel.com.ar (Postfix) with ESMTP id 7D95C415B10D; Wed, 15 Nov 2023 11:31:01 -0300 (-03)
+Received: from avasmr05-slo1.int.fibertel.com.ar ([127.0.0.1]) by localhost (avasmr05-slo1.int.fibertel.com.ar [127.0.0.1]) (amavisd-new, port 10027) with LMTP id spxy6J_co36v; Wed, 15 Nov 2023 11:31:00 -0300 (-03)
+Received: from vZMTA02.fibertel.com.ar (vzmta02.fibertel.com.ar [201.212.7.85]) (using TLSv1.2 with cipher AECDH-AES256-SHA (256/256 bits)) (No client certificate requested) by avasmr05-slo1.int.fibertel.com.ar (Postfix) with ESMTPS id 782F1415B103; Wed, 15 Nov 2023 11:31:00 -0300 (-03)
+Received: from vZMTA02.fibertel.com.ar (localhost [127.0.0.1]) by vzmta02-fc.int.fibertel.com.ar (Postfix) with ESMTPS id 0A6CB2C146B; Wed, 15 Nov 2023 11:31:00 -0300 (ART)
+Received: from vzmbox11-fc.int.fibertel.com.ar (vzmbox11-fc.int.fibertel.com.ar [10.120.162.7]) by vzmta02-fc.int.fibertel.com.ar (Postfix) with ESMTP id 8AF332C146A; Wed, 15 Nov 2023 11:29:47 -0300 (ART)
+Date: Wed, 15 Nov 2023 11:29:47 -0300 (ART)
+From: John Roland <estudiomastroianni@fibertel.com.ar>
+Reply-To: "johnroland0290@gmail.com" <johnroland0290@gmail.com>
+Message-ID: <387050984.94024706.1700058587538.JavaMail.zimbra@fibertel.com.ar>
+Subject: 
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_94024705_457639864.1700058587537"
+X-Originating-IP: [197.210.78.211]
+X-Mailer: Zimbra 8.6.0_GA_1191 (ZimbraWebClient - GC86 (Win)/8.6.0_GA_1191)
+Thread-Topic: 
+Thread-Index: TqM2KRGVqSG9NzjKgVYJ+Cfq6CLqhQ==
+
+------=_Part_94024705_457639864.1700058587537
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+
+
+I did not hear from you after my previous mail and it`s vital also let discuss it as soon as 
+possible. respond via email below Email: 
+johnroland0290@gmail.com 
+BEST REGARDS. 
+
+------=_Part_94024705_457639864.1700058587537
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html><body><div style="font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #000000"><div><br></div><div><br></div><div data-marker="__SIG_PRE__">I did not hear from you after &nbsp;my previous mail and it`s vital also let discuss it as soon as<br>possible. respond via email below Email:<br>johnroland0290@gmail.com <br>BEST REGARDS.</div></div></body></html>
+------=_Part_94024705_457639864.1700058587537--
+
+--------------------------------------------------------------------------------------------
+ <happymanharris@gmail.com> 
+
+Alex Harris
+mié, 15 nov, 18:50
+Yo dude the only fan just texted me and said I haven’t paid them because I told them not to post your shit viral anymore the said they want $300 and they’re don
+Alex Harris <happymanharris@gmail.com>
+mié, 15 nov, 18:51
+para mí
+
+¿Por qué está en Spam este mensaje? Se parece a otros mensajes que se han identificado como spam anteriormente.
+No es spam
+
+
+On Wed, Nov 15, 2023 at 8:50 PM Alex Harris <happymanharris@gmail.com> wrote:
+Yo dude the only fan just texted me and said I haven’t paid them because I told them not to post your shit viral anymore the said they want $300 and they’re done they’re not gonna post your shit this weekend. Pay them and u good..
+
+Are you ready to end this or not? 
+----------------------
+ID de mensaje	<CAFpuhkXwz7yWWZMe-GS4aOt5A0Rvn77xNUqbfE=cfi=T3dDDBA@mail.gmail.com>
+Creado a las:	15 de noviembre de 2023, 18:51 (entregado en 12 segundos)
+De:	Alex Harris <happymanharris@gmail.com>
+Para:	david2003jdmm@gmail.com
+Asunto:	Re: Onlyfan
+SPF:	PASS con la IP 209.85.220.41 Más información
+DKIM:	'PASS' con el dominio gmail.com Más información
+DMARC:	'PASS' Más información
+
+
+Descargar original	Copiar en el portapapeles	
+Delivered-To: david2003jdmm@gmail.com
+Received: by 2002:a8a:d07:0:b0:4fb:734c:3fdf with SMTP id v7csp2972510ocw;
+        Wed, 15 Nov 2023 18:51:48 -0800 (PST)
+X-Received: by 2002:a25:dc52:0:b0:daf:11cd:d54a with SMTP id y79-20020a25dc52000000b00daf11cdd54amr13626504ybe.36.1700103108280;
+        Wed, 15 Nov 2023 18:51:48 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1700103108; cv=none;
+        d=google.com; s=arc-20160816;
+        b=V8N52J0H9KG2kF+figRMyV37ZSPpSdPj/8yKcuLOmcmHWrMt0Kmvo4coP4vCOmM8to
+         86uGCiL8kBOc4uY8UfeCM8cSM1vNKwOgnj8zgLfIpvoYnjU60T7R58cX+d18Q5olw0bk
+         RrpmHFNNpKpRjNVZD27toSJ5mytdm7z77M9JUlzu8FR4HpGnLm+2e7jz7gQWmxXGbxQe
+         yGPJPmvemPzc7ZulnQR790g/rgfir5BG1543z0kfQ+ZYBKpdIJd7bx6kbet/TauUpH4r
+         PTH1lzFAnFjkh19+JniD4ggIxKpSsEb6H/R218l+xRxdnDJ24t70hepwQ9W1An6Za5jH
+         RI5w==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=to:subject:message-id:date:from:in-reply-to:references:mime-version
+         :dkim-signature;
+        bh=QOHw2Jm31da1h0ct0BLQxU4v1q1jRKmSE2FjxTwh8H4=;
+        fh=H8aH6v56M/Ff+Gv4cGoCTGhJfE5HZRbL/61OaujKtac=;
+        b=NZkxyRATQVTmTar4OU4xMVO78yfcfuZ+J4+6QTzAwU7LSSiYvnBHjEU+Ok2ul+Pny6
+         cj7ZqfFrv+ZDkCnFTPNGpunj0MDzecVgVpN26mSGT8E44+nOUrVr4FRamCzAts7WFqow
+         Hy1QRUQcm7gsSEDTx2o9awda1bvRuok3AWjUOtq8qCE+y8RDWWF/MeKLksmIETCJ88Yo
+         C6ElOupifyktZjN2Ks18Vj6ucCkT93LC3kRh4vC4Q0APNi6HW2QO4hgb/rsXD4ZBs3FK
+         aKktFxl7p7fn+nTwc8E5XgFD1xHFlP22oX3jdEsF5USmtza7yuoaUzAlT9CSvWKNjpsX
+         P9uA==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20230601 header.b=mob1EoM1;
+       spf=pass (google.com: domain of happymanharris@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=happymanharris@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com
+Return-Path: <happymanharris@gmail.com>
+Received: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])
+        by mx.google.com with SMTPS id n142-20020a25d694000000b00db03410e1b4sor950661ybg.6.2023.11.15.18.51.48
+        for <david2003jdmm@gmail.com>
+        (Google Transport Security);
+        Wed, 15 Nov 2023 18:51:48 -0800 (PST)
+Received-SPF: pass (google.com: domain of happymanharris@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20230601 header.b=mob1EoM1;
+       spf=pass (google.com: domain of happymanharris@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=happymanharris@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20230601; t=1700103108; x=1700707908; dara=google.com;
+        h=to:subject:message-id:date:from:in-reply-to:references:mime-version
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=QOHw2Jm31da1h0ct0BLQxU4v1q1jRKmSE2FjxTwh8H4=;
+        b=mob1EoM1TYneYTQDB0ttrSBtP/BChNo2qED3+g8dWw1SptwGMoAH7+vZDCl0Kc2SNE
+         uQLDjXYkhsW0C0uT1Fs1Yq1Ae/5z1RA+bPCC6Cqi4LEkH9qsZYc3AaAReNdCFcpFjU1H
+         kRBRYwOOWs3qr+VXKUNMmI9LCUDAH+elfFQQXH5kEZOs1GBy8DYe6weud0fLZ8CYG9KP
+         js50RiDrG+/fWHkLjIgSHhqStJcnbsRQmIdGu478g3wvn187kyHj5fGrtZCXLDzNx3Z4
+         MdxTopyPCPRwBMWBpMPQKuVnj5QTAnsp7oXh2RexR8OvqjfxPbKUA+UeJKhku4luIJvs
+         kHjQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20230601; t=1700103108; x=1700707908;
+        h=to:subject:message-id:date:from:in-reply-to:references:mime-version
+         :x-gm-message-state:from:to:cc:subject:date:message-id:reply-to;
+        bh=QOHw2Jm31da1h0ct0BLQxU4v1q1jRKmSE2FjxTwh8H4=;
+        b=k9XabYsSQvAjRq+B2ZqGAIHfHLPBh3K/Fz5KW11jAMs1aEkCmjykTiSXHSw3QcWJ6f
+         bxqWCp6BgZnSQFeZ3AgXMiaN2sxoCwc2Yp6Fa4+tft6kd/m61Ay1trCzxm0J9j23K71d
+         WqzrjIoq1ckjcm8vYBOY09MkJRt28BTAvMCXif7+mAoEh9ye4QDeN4CH53lxWSwHEWjy
+         HMT03jKD+79CG4gHPtdLt/jGLwtbcRMnUWL6geL4EQnhFeinOCI4pidJZO8miIb6iGgQ
+         ssHCuZyCJrqQ+j4A77f67msMf3B6IZU9JfGMxuPvDhzEThmeA7rqFkP/Z9sljTA1A5uF
+         HTvw==
+X-Gm-Message-State: AOJu0YyxpVwtjPU2vJyh/arf330A1UVSuJ1I0Tw3+tyTSRqueDhAh6pQ roA+LCrgSlM5a3xeuaF15MYPjDp5ERm47k2y2tq6Vt6FU0h5ng==
+X-Google-Smtp-Source: AGHT+IFLYWD/J4/7J9nbrrJnv1J3manTjKA9dplk4Ta8QSd/LRp4ycyT2JJCowNlu7zh0z2ds2OQnQ+jK6zXVA44lNU=
+X-Received: by 2002:a25:6951:0:b0:da3:ab41:2fc8 with SMTP id e78-20020a256951000000b00da3ab412fc8mr13689401ybc.16.1700103107827; Wed, 15 Nov 2023 18:51:47 -0800 (PST)
+MIME-Version: 1.0
+References: <CAFpuhkWm9Kw7wyVSnQnCz8PK+UNO5uSaY=Dcx2ZNiz1wvWBJkw@mail.gmail.com>
+In-Reply-To: <CAFpuhkWm9Kw7wyVSnQnCz8PK+UNO5uSaY=Dcx2ZNiz1wvWBJkw@mail.gmail.com>
+From: Alex Harris <happymanharris@gmail.com>
+Date: Wed, 15 Nov 2023 20:51:36 -0600
+Message-ID: <CAFpuhkXwz7yWWZMe-GS4aOt5A0Rvn77xNUqbfE=cfi=T3dDDBA@mail.gmail.com>
+Subject: Re: Onlyfan
+To: david2003jdmm@gmail.com
+Content-Type: multipart/alternative; boundary="000000000000d2da4b060a3c1987"
+
+--000000000000d2da4b060a3c1987
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+On Wed, Nov 15, 2023 at 8:50 PM Alex Harris <happymanharris@gmail.com>
+wrote:
+
+> Yo dude the only fan just texted me and said I haven=E2=80=99t paid them =
+because I
+> told them not to post your shit viral anymore the said they want $300 and
+> they=E2=80=99re done they=E2=80=99re not gonna post your shit this weeken=
+d. Pay them and u
+> good..
+
+
+Are you ready to end this or not?
+
+>
+
+--000000000000d2da4b060a3c1987
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div><div><br></div><div><br><div class=3D"gmail_quote"><div dir=3D"ltr" cl=
+ass=3D"gmail_attr">On Wed, Nov 15, 2023 at 8:50 PM Alex Harris &lt;<a href=
+=3D"mailto:happymanharris@gmail.com" target=3D"_blank">happymanharris@gmail=
+.com</a>&gt; wrote:<br></div><blockquote class=3D"gmail_quote" style=3D"mar=
+gin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex" dir=3D"auto">Yo=
+ dude the only fan just texted me and said I haven=E2=80=99t paid them beca=
+use I told them not to post your shit viral anymore the said they want $300=
+ and they=E2=80=99re done they=E2=80=99re not gonna post your shit this wee=
+kend. Pay them and u good..</blockquote><div dir=3D"auto"><br></div><div di=
+r=3D"auto">Are you ready to end this or not?=C2=A0</div><blockquote class=
+=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padd=
+ing-left:1ex" dir=3D"auto"></blockquote><blockquote class=3D"gmail_quote" s=
+tyle=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex" dir=
+=3D"auto">
+</blockquote></div></div>
+</div>
+
+--000000000000d2da4b060a3c1987--
+
+------------------------------------------------------------------------------------
+
+MRS.CINDY JULIA
+20 nov 2023, 20:41
+EURO-MILLIONS JACKPOTS INTERNATIONAL, 175 WOODHILL ROAD, BULKYARD, LONDON, UNITED KINGDOM FROM: THE DESK OF THE ONLINE DIRECTOR, INTERNATIONAL PROMOTIONS/PRIZE
+MRS.CINDY JULIA <hrd@jeyyamfoods.in>
+20 nov 2023, 21:12
+ para Recipients
+
+¿Por qué está en Spam este mensaje? Se parece a otros mensajes que se han identificado como spam anteriormente.
+No es spam
+EURO-MILLIONS JACKPOTS INTERNATIONAL,
+175 WOODHILL ROAD, BULKYARD, LONDON, UNITED KINGDOM
+FROM: THE DESK OF THE ONLINE DIRECTOR,
+INTERNATIONAL PROMOTIONS/PRIZE
+AWARD DEPARTMENT.
+Batch Number:7GB/M5/0DOE
+Reference Number:UK/NL2022/01NIO
+
+
+
+Dear Winner,
+
+
+  Your ticket number: 023-0148-790-459 with Serial number HZR734604/22 drew The lucky number: 11 Congratulations, you have just won yourself £2,000,000.00
+Euro. (Two Million Euro) in the satellite software email lottery Jackpots conducted By EURO MILLIONS JACKPOTS in which e-mail addresses are picked randomly by Software
+powered by the Internet.
+
+
+  Your email address was amongst those chosen this quarter and you are to contact our Promotions' Manager for Clearance. Here is the contact information:
+jl9220031@gmail.com
+
+
+
+   You are to forward the following details to enable us clear your file for immediate payment:
+
+
+1, Full Names:
+2, Winning E-mail:
+3, Reference Number:
+4, Batch Number:
+5, Mobile/Telephone number:
+6, country:
+
+
+Yours faithfully,
+MRS.CINDY JULIA
+EURO MILLION JACKPOTS ONLINE DIRECTOR
+...
+
+[Mensaje recortado]  Ver todo el mensaje
+
+ID de mensaje	<20231121045024.13374F2F99@mailhosting.precisioncluster.com>
+Creado a las:	20 de noviembre de 2023, 20:50 (entregado en 1326 segundos)
+De:	"MRS.CINDY JULIA" <hrd@jeyyamfoods.in>
+Para:	Recipients <hrd@jeyyamfoods.in>
+Asunto:	Dear Winner,
+SPF:	PASS con la IP 115.114.95.42 Más información
+DMARC:	'PASS' Más información
+
+
+Descargar original	Copiar en el portapapeles	
+Delivered-To: david2003jdmm@gmail.com
+Received: by 2002:a8a:103:0:b0:4fb:734c:3fdf with SMTP id u3csp387047ocq;
+        Mon, 20 Nov 2023 21:12:22 -0800 (PST)
+X-Google-Smtp-Source: AGHT+IFiX436CLL9VwvG768cV9Er/7REjWfe5xj2P7174cTH7XcczGwf5gM1p1Xtnl1w2A/Znqpv
+X-Received: by 2002:aca:1113:0:b0:3b2:e5c6:23bc with SMTP id 19-20020aca1113000000b003b2e5c623bcmr11442249oir.52.1700543542276;
+        Mon, 20 Nov 2023 21:12:22 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1700543542; cv=none;
+        d=google.com; s=arc-20160816;
+        b=zbpT+2GG1/+zRx28DqLCDQWsCvDr2GsgXxHe4WmC+vSFrUPbcjkudXWt1J8hWeYPfH
+         e3p7udg3srtnmdUzuTBvrJjQFrG703O3IjP/J74MAUFkNfsQCYi66QgyiUY/LsBZrYKN
+         tT45xi29w32r9klZZKyzrCc2aj6wGCff88BOy/eSk2jZP4u+dMTC3qvK18iJVQ9vCbxX
+         +ZVdTbIVtXdEZ0GyUu788CakiwTF4o9i4HJjv7SSzkHkx9DEwvw2+Pe2WWhhxz+0bNqn
+         EdeFizEC70DhgnVpWwUZVeCT/LbNWoMQI80v3RatLR1tCZdKRMTDCDgU3uE+pw84fEnW
+         MD8Q==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=message-id:reply-to:date:from:to:subject:content-description
+         :content-transfer-encoding:mime-version;
+        bh=56KXfcou6Llxh/0If8P40VGrCDDhvegQ9z1K62FyZ3c=;
+        fh=0g220IMmjCI9o02xjlFKk1ZvCGtfU9NY6rHLxydwBEg=;
+        b=j9l1rLcUWfqMSR+ky48rQw3TGX2jn4LGIUo0inYc6/sorqW8CbQps+GIMDAfLj/36M
+         /r9UZZr9GOy/6klpKliKtVGq/l/bEmZVrKJayDWv4eALjMIl5U2Mchf3VB0paHnDeMKT
+         owICo04nKQJmRCjU3sqxbxINbk4cyadqTGZV9871MCY8NUm9ECsfI56ifdS9xRRHEUBv
+         dmlVHTWeZ5BmiPvhtz1h4Ik3aAPHtBn2Zymevig5gtzwZQ70+NaJ940XqFHWaK+NmXEV
+         46dcA1Lg2LDSCIeLF/qM5YNr5E4Op81s/dzW6QQKiRz37nnkivQGAfsGbwlF7naOj5hb
+         2b4A==
+ARC-Authentication-Results: i=1; mx.google.com;
+       spf=pass (google.com: domain of hrd@jeyyamfoods.in designates 115.114.95.42 as permitted sender) smtp.mailfrom=hrd@jeyyamfoods.in;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=jeyyamfoods.in
+Return-Path: <hrd@jeyyamfoods.in>
+Received: from mailhosting.precisioncluster.com (mailhosting.precisioncluster.com. [115.114.95.42])
+        by mx.google.com with ESMTP id p188-20020a625bc5000000b006cb3b40c542si7778276pfb.90.2023.11.20.21.12.21
+        for <david2003jdmm@gmail.com>;
+        Mon, 20 Nov 2023 21:12:22 -0800 (PST)
+Received-SPF: pass (google.com: domain of hrd@jeyyamfoods.in designates 115.114.95.42 as permitted sender) client-ip=115.114.95.42;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of hrd@jeyyamfoods.in designates 115.114.95.42 as permitted sender) smtp.mailfrom=hrd@jeyyamfoods.in;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=jeyyamfoods.in
+Received: from localhost (localhost [127.0.0.1]) by mailhosting.precisioncluster.com (Postfix) with ESMTP id 13374F2F99 for <david2003jdmm@gmail.com>; Tue, 21 Nov 2023 10:20:24 +0530 (IST)
+X-Virus-Scanned: amavisd-new at mailhosting.precision.com
+Received: from mailhosting.precisioncluster.com ([127.0.0.1]) by localhost (mailhosting.precision.com [127.0.0.1]) (amavisd-new, port 10024) with ESMTP id hJiZTORPhOpN for <david2003jdmm@gmail.com>; Tue, 21 Nov 2023 10:20:23 +0530 (IST)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+Received: from [87.120.84.37] (unknown [87.120.84.37]) by mailhosting.precisioncluster.com (Postfix) with ESMTP id 0A552F34D0; Tue, 21 Nov 2023 10:20:19 +0530 (IST)
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+Subject: Dear Winner,
+To: Recipients <hrd@jeyyamfoods.in>
+From: "MRS.CINDY JULIA" <hrd@jeyyamfoods.in>
+Date: Mon, 20 Nov 2023 20:50:16 -0800
+Reply-To: jl9220031@gmail.com
+Message-Id: <20231121045024.13374F2F99@mailhosting.precisioncluster.com>
+
+EURO-MILLIONS JACKPOTS INTERNATIONAL,
+175 WOODHILL ROAD, BULKYARD, LONDON, UNITED KINGDOM
+FROM: THE DESK OF THE ONLINE DIRECTOR,
+INTERNATIONAL PROMOTIONS/PRIZE
+AWARD DEPARTMENT.
+Batch Number:7GB/M5/0DOE
+Reference Number:UK/NL2022/01NIO
+
+
+
+Dear Winner,
+
+
+  Your ticket number: 023-0148-790-459 with Serial number HZR734604/22 drew=
+ The lucky number: 11 Congratulations, you have just won yourself =A32,000,=
+000.00
+Euro. (Two Million Euro) in the satellite software email lottery Jackpots c=
+onducted By EURO MILLIONS JACKPOTS in which e-mail addresses are picked ran=
+domly by Software
+powered by the Internet.
+
+
+  Your email address was amongst those chosen this quarter and you are to c=
+ontact our Promotions' Manager for Clearance. Here is the contact informati=
+on:
+jl9220031@gmail.com
+
+
+
+   You are to forward the following details to enable us clear your file fo=
+r immediate payment:
+
+
+1, Full Names:
+2, Winning E-mail:
+3, Reference Number:
+4, Batch Number:
+5, Mobile/Telephone number:
+6, country:
+            =20
+
+Yours faithfully,
+MRS.CINDY JULIA
+EURO MILLION JACKPOTS ONLINE DIRECTOR
+-------------------------------------------------------------------------------------------
+
+Thompson Peter <hrd@jeyyamfoods.in>
+mié, 22 nov, 2:43
+ para Recipients
+
+¿Por qué está en Spam este mensaje? Se parece a otros mensajes que se han identificado como spam anteriormente.
+No es spam
+For your kind attention
+
+I am a Systems Engineer on foreign assignment to Gatwick London England by the request of British authorities . I am presently attached to Gatwick International Airport here in London. My primary assignment includes to install security equipment and improve on security Networks at all Britain Airports. I am also presently assigned with the duties of inspecting all diplomatic consignments and related luggage belonging to Government of Nations which are arriving the shores of Britain with sophiscated equipments.
+
+My Intelligence Security Network Apparatus has foiled attempt by some Syndicates who work with some Banks within Europe, America, Asia and Middle East inconjection with some corrupt officials to divert a huge  amount of fund in cash valued Millions of USD in bank save containers using Diplomatic Courier Services Company. My personal preliminary investigations certified that you are the original owner of the fund/consignee as documented from the source of origin. Please confirm to me immediately if you have any Missing/Underlivered consignment or uncompleted funds transfer due to unusual request of outrageous charges from corrupt officials. I need your urgent response to this notification to enable me take the next line of actions in this matter. But be assured that if you have any uncompleted fund transfer or undelivered luggage/consignment, it is very save and secured in our facility and would be unconditionally released to you after matters have been cleared and regularized.
+
+Yours sincerely,
+
+
+Thompson Peter
+Email :thompsonpeter1717@gmail.com
+
+ID de mensaje	<20231122095505.B90BEF4097@mailhosting.precisioncluster.com>
+Creado a las:	22 de noviembre de 2023, 1:54 (entregado en 2935 segundos)
+De:	Thompson Peter <hrd@jeyyamfoods.in>
+Para:	Recipients <hrd@jeyyamfoods.in>
+Asunto:	Re,your kind attention 2
+SPF:	PASS con la IP 115.114.95.42 Más información
+DMARC:	'PASS' Más información
+
+
+Descargar original	Copiar en el portapapeles	
+Delivered-To: david2003jdmm@gmail.com
+Received: by 2002:a8a:103:0:b0:4fb:734c:3fdf with SMTP id u3csp1219236ocq;
+        Wed, 22 Nov 2023 02:43:52 -0800 (PST)
+X-Google-Smtp-Source: AGHT+IF9ycY16R9V0uy3Shx195p+YUk0Qp9svbv0Gaz3jBT1n1hQn4tj/P5ic4hjlVDhOn1NfCEv
+X-Received: by 2002:a17:90b:1e51:b0:283:1da6:fa2 with SMTP id pi17-20020a17090b1e5100b002831da60fa2mr1929826pjb.15.1700649832395;
+        Wed, 22 Nov 2023 02:43:52 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1700649832; cv=none;
+        d=google.com; s=arc-20160816;
+        b=FfDiIYzX5ui4fn2HRYtAlNMbg8gALPSwm/CAHX6KCzxSCqwcI8JW6+aC8Wgkn76Y7j
+         9XKf8/ffJr6vj5GmpH0N2z/RlpEXpxSLc+r5gdRKaxLnZklzU8+NeaCsjESJIFpdosmm
+         kdiAJK/VrYiyN/0twdJnw6TQjaV7tHz7u1rvotuPp2QCTciETawRfYcIEZZwZ5S8DIKP
+         EowAQZTKKhLZ7mJXfzS6csu0ZUCfZq5arMjDcWjxkAye66CRwBMhFvWVO8jg0Vy5m2EN
+         KntRIF667ZYfobIDJe9f+MpiPIpPAF4KbPZ+xkNhOl0yCl9SkInvV64X25dFbvUtBQYv
+         u+JA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=message-id:reply-to:date:from:to:subject:content-description
+         :content-transfer-encoding:mime-version;
+        bh=LNAK7UdjeZcwHLNKGpnYd0B3q1lw9NDGbP13eHhn+N4=;
+        fh=0g220IMmjCI9o02xjlFKk1ZvCGtfU9NY6rHLxydwBEg=;
+        b=Ztreb+Jz3sHfo5egs02wVZbEb5nm/DwqCeP85eskjXQwXGWJ1t6LvecWN5HqaIpJbV
+         zfaCWBVGbj3BH/aSaptQ5tW2DFY3HesKkmgOzHI5lrh0oZSwTZdiRO2ci93j6gF+cB7p
+         X8NKnRA8UuvRmbhQn85F7zt4ZrXv9cvfGx4gYIQbyycoyrT1aylY+6dsXJjUv/Lb07XR
+         t3eY55A+aeng1dTUBaGGfqO7SOoD4hIQYt+EEqKyMxoQpxsvVdAeUEt/Mwg43SZM9j+v
+         gSkgLaIht719LIZkb3Qtoc+p9BrNB7d/s4ah42JJ3AmBzuMF6LDdoiVnvnjQ1Bvuy5W8
+         yjSA==
+ARC-Authentication-Results: i=1; mx.google.com;
+       spf=pass (google.com: domain of hrd@jeyyamfoods.in designates 115.114.95.42 as permitted sender) smtp.mailfrom=hrd@jeyyamfoods.in;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=jeyyamfoods.in
+Return-Path: <hrd@jeyyamfoods.in>
+Received: from mailhosting.precisioncluster.com (mailhosting.precisioncluster.com. [115.114.95.42])
+        by mx.google.com with ESMTP id b22-20020a170902d89600b001c5bb1f0cccsi12303016plz.275.2023.11.22.02.43.52
+        for <david2003jdmm@gmail.com>;
+        Wed, 22 Nov 2023 02:43:52 -0800 (PST)
+Received-SPF: pass (google.com: domain of hrd@jeyyamfoods.in designates 115.114.95.42 as permitted sender) client-ip=115.114.95.42;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of hrd@jeyyamfoods.in designates 115.114.95.42 as permitted sender) smtp.mailfrom=hrd@jeyyamfoods.in;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=jeyyamfoods.in
+Received: from localhost (localhost [127.0.0.1]) by mailhosting.precisioncluster.com (Postfix) with ESMTP id B90BEF4097 for <david2003jdmm@gmail.com>; Wed, 22 Nov 2023 15:25:05 +0530 (IST)
+X-Virus-Scanned: amavisd-new at mailhosting.precision.com
+Received: from mailhosting.precisioncluster.com ([127.0.0.1]) by localhost (mailhosting.precision.com [127.0.0.1]) (amavisd-new, port 10024) with ESMTP id cJCDDpmaGybu for <david2003jdmm@gmail.com>; Wed, 22 Nov 2023 15:25:05 +0530 (IST)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+X-Original-Helo: [87.120.84.37] (iRedMail: http://www.iredmail.org/)
+Received: from [87.120.84.37] (unknown [87.120.84.37]) by mailhosting.precisioncluster.com (Postfix) with ESMTP id 539E7F3F54; Wed, 22 Nov 2023 15:25:01 +0530 (IST)
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+Subject: Re,your kind attention 2
+To: Recipients <hrd@jeyyamfoods.in>
+From: Thompson Peter <hrd@jeyyamfoods.in>
+Date: Wed, 22 Nov 2023 01:54:57 -0800
+Reply-To: thompsonpeter1717@gmail.com
+Message-Id: <20231122095505.B90BEF4097@mailhosting.precisioncluster.com>
+
+For your kind attention
+
+I am a Systems Engineer on foreign assignment to Gatwick London England by =
+the request of British authorities . I am presently attached to Gatwick Int=
+ernational Airport here in London. My primary assignment includes to instal=
+l security equipment and improve on security Networks at all Britain Airpor=
+ts. I am also presently assigned with the duties of inspecting all diplomat=
+ic consignments and related luggage belonging to Government of Nations whic=
+h are arriving the shores of Britain with sophiscated equipments.
+
+My Intelligence Security Network Apparatus has foiled attempt by some Syndi=
+cates who work with some Banks within Europe, America, Asia and Middle East=
+ inconjection with some corrupt officials to divert a huge  amount of fund =
+in cash valued Millions of USD in bank save containers using Diplomatic Cou=
+rier Services Company. My personal preliminary investigations certified tha=
+t you are the original owner of the fund/consignee as documented from the s=
+ource of origin. Please confirm to me immediately if you have any Missing/U=
+nderlivered consignment or uncompleted funds transfer due to unusual reques=
+t of outrageous charges from corrupt officials. I need your urgent response=
+ to this notification to enable me take the next line of actions in this ma=
+tter. But be assured that if you have any uncompleted fund transfer or unde=
+livered luggage/consignment, it is very save and secured in our facility an=
+d would be unconditionally released to you after matters have been cleared =
+and regularized.
+
+Yours sincerely,
+
+
+Thompson Peter
+Email :thompsonpeter1717@gmail.com
+-----------------------------------------------------------------------------
+
+
+RE I HAVE A BUSINESS PROPOSAL CONTACT MY EMAIL (toddjames52@hotmail.com
+Spam
+Mr. Robert Williams <smac-124s13@mail.goo.ne.jp>
+dom, 3 dic, 14:14 (hace 3 días)
+para
+
+¿Por qué está en Spam este mensaje? Se parece a otros mensajes que se han identificado como spam anteriormente.
+No es spam
+Greetings,
+
+I am Captain Todd James of the US Army force and one of the Commanding officers of the US Central Command here in Syria.
+Please I urgently need you to help me safeguard the amount of money I have here in my possession which is worth the sum of eleven million five hundred thousand US Dollars (11.5 Million).
+
+I came across this mega cash while on the operation, as we were on the massive attack against the ISIS terrorist group and has made a private investigation and found out the money was left by the runaway terrorists so I decided to keep the money in my possession ,
+
+But minding how horrible and risky it is here in this military camp, I deemed it necessary to look out for a trusted fellow whom would assist me in safeguarding the cash until I get out of this horrible zone. It was on this effect that I started search here online for an honest person whom I can trust to help me safeguard the cash and I came across your mail address and I want to know if you are willing to help me do this.
+
+I want you to know that I am willing to offer you 40% -Percent of the total amount if you do help me safeguard this money and get it out of here.I will email you the details on how I plan of moving the cash out of this place as soon as I receive your response
+
+Please get back to me
+
+Thanks,
+Cpt Todd James
+
+ID de mensaje	<170164162717.7900.1560283161847454598@mail.goo.ne.jp>
+Creado a las:	3 de diciembre de 2023, 14:13 (entregado en 13 segundos)
+De:	"Mr. Robert Williams" <smac-124s13@mail.goo.ne.jp>
+Para:	
+Asunto:	RE I HAVE A BUSINESS PROPOSAL CONTACT MY EMAIL (toddjames52@hotmail.com
+SPF:	PASS con la IP 153.128.188.72 Más información
+
+
+Descargar original	Copiar en el portapapeles	
+Delivered-To: david2003jdmm@gmail.com
+Received: by 2002:a05:6802:25d8:b0:4fb:734c:3fdf with SMTP id gy24csp2445654ocb;
+        Sun, 3 Dec 2023 14:14:02 -0800 (PST)
+X-Google-Smtp-Source: AGHT+IF8UA2a9YkbaA7EM+CGS/4Cjii1oWn4sNH4iUWW0rcWbfrSiO1Y2RkvE4EGgqNcfeDx2qWk
+X-Received: by 2002:a05:6358:9106:b0:170:339f:c026 with SMTP id q6-20020a056358910600b00170339fc026mr339846rwq.62.1701641642030;
+        Sun, 03 Dec 2023 14:14:02 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1701641641; cv=none;
+        d=google.com; s=arc-20160816;
+        b=FLE2dpwmhHJ/92BVHvvoIBDGxYaQBOzKXShpLF0uxQw8gqLJTo4D029p/7tmMmKjkK
+         YU3yFzLE51vjAIDZjzqFNE7Gq22q9JI++KkvkD0V1ZaeMAOSwQOnPon84ALQEfXU1hHg
+         l+YtSr5sOhKylMZMSfMgMntZPGLLbwrfmEEXl/85/ZIX7aGoh1uGrivLiRu+FOe6kGqS
+         ElsfLFho8XR5NngDo5euOe3CS1EPmOK95fktl070S4pRGxPU3iXlGbQsRTpgRtcHNE4x
+         BEbmpcPlXTMwxCxRyDCV8lg33YoEiTiXLp5cyjhw2Y6zR0S1zLgzQUmxRV9Ng81UWNxx
+         HyTA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=date:message-id:from:subject:to:mime-version;
+        bh=R8QjU2fwTqEvju36n4gN9ynd4uW9Ce1SagOy0HdeeAg=;
+        fh=Pr2plYkJn0ovdHybgHvE53243CPsqSX0NRPDPDnAMwQ=;
+        b=ZFXI6c9DcHC0ZnpgiCB98EJKKa2E1OaZnxp7ORIQ4yfixjVWuGs+8CMyDuFNidA21U
+         GROn+HxixiIYIAbFCKyrNYah8oeZvbqCRa5NjMFtx9PmJqgTNENEvxgooSeF45z0aPuU
+         xae6a43N7EqXwH2UM85sKO0JS6KT2ZJuUEdrmbYz58RuTQ3jG4nvil0ZnaSYE6nDsYDi
+         bKAHb5pTbcnyqhR2K9RK+aJXY8r+tyTcB6QVpANJSubHY0ToDMSYd0ZqPrjLlN96XodQ
+         DppMPOEzaXxurhwWsGpkIAOmWeUq02abY9mAeb7dlnjWhFAtO9JQ+hPCRaJvXpwki1Yx
+         BW1g==
+ARC-Authentication-Results: i=1; mx.google.com;
+       spf=pass (google.com: domain of smac-124s13@mail.goo.ne.jp designates 153.128.188.72 as permitted sender) smtp.mailfrom=smac-124s13@mail.goo.ne.jp
+Return-Path: <smac-124s13@mail.goo.ne.jp>
+Received: from mas-bld-mts-104c1.mail.goo.jp (mas-bld-mts-104c1.mail.goo.jp. [153.128.188.72])
+        by mx.google.com with ESMTPS id h2-20020a170902f54200b001cf54c7adb7si5147137plf.20.2023.12.03.14.13.52
+        (version=TLS1_2 cipher=ECDHE-ECDSA-CHACHA20-POLY1305 bits=256/256);
+        Sun, 03 Dec 2023 14:14:01 -0800 (PST)
+Received-SPF: pass (google.com: domain of smac-124s13@mail.goo.ne.jp designates 153.128.188.72 as permitted sender) client-ip=153.128.188.72;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of smac-124s13@mail.goo.ne.jp designates 153.128.188.72 as permitted sender) smtp.mailfrom=smac-124s13@mail.goo.ne.jp
+Received: from mas-spm-mts-104c1.ocn.ad.jp (mas-spm-mts-104c1.ocn.ad.jp [153.153.66.230]) by mas-bld-mts-104c1.mail.goo.jp (Postfix) with ESMTP id C99535400016B; Mon,
+  4 Dec 2023 07:13:50 +0900 (JST)
+Received: from mas-vc-mts-101c1.ocn.ad.jp ([153.153.66.90]) by mas-spm-mts-104c1.ocn.ad.jp with ESMTP id 9uikrCwA7gW5h9uikrMnLX; Mon, 04 Dec 2023 07:13:50 +0900
+Received: from mas-sdpx-mts-106c2.mail.goo.jp ([153.128.117.224]) by mas-vc-mts-101c1.ocn.ad.jp with ESMTP id 9uiir02Lk5UHQ9uiirgWMc; Mon, 04 Dec 2023 07:13:50 +0900
+Received: from md-app-cb006.noc-chibaminato.ocn.ad.jp (md-app-cb006.ocn.ad.jp [153.138.211.202]) by mas-sdpx-mts-106c2.mail.goo.jp (Postfix) with ESMTP; Mon,
+  4 Dec 2023 07:13:48 +0900 (JST)
+Content-Type: multipart/alternative; boundary="===============8062160842631862328=="
+MIME-Version: 1.0
+To: undisclosed-recipients:;
+Subject: RE I HAVE A BUSINESS PROPOSAL CONTACT MY EMAIL (toddjames52@hotmail.com
+From: "Mr. Robert Williams" <smac-124s13@mail.goo.ne.jp>
+Message-ID: <170164162717.7900.1560283161847454598@mail.goo.ne.jp>
+X-Originating-IP: [102.64.220.104]
+Date: Mon, 04 Dec 2023 07:13:48 +0900
+
+--===============8062160842631862328==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Greetings,
+
+I am Captain Todd James of the US Army force and one of the Commanding officers of the US Central Command here in Syria.
+Please I urgently need you to help me safeguard the amount of money I have here in my possession which is worth the sum of eleven million five hundred thousand US Dollars (11.5 Million).
+
+I came across this mega cash while on the operation, as we were on the massive attack against the ISIS terrorist group and has made a private investigation and found out the money was left by the runaway terrorists so I decided to keep the money in my possession ,
+
+But minding how horrible and risky it is here in this military camp, I deemed it necessary to look out for a trusted fellow whom would assist me in safeguarding the cash until I get out of this horrible zone. It was on this effect that I started search here online for an honest person whom I can trust to help me safeguard the cash and I came across your mail address and I want to know if you are willing to help me do this.
+
+I want you to know that I am willing to offer you 40% -Percent of the total amount if you do help me safeguard this money and get it out of here.I will email you the details on how I plan of moving the cash out of this place as soon as I receive your response
+
+Please get back to me
+
+Thanks,
+Cpt Todd James
+--===============8062160842631862328==
+Content-Type: text/html; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+<p>Greetings,</p>
+<p>I am Captain Todd James of the US Army force and one of the Commanding officers of the US Central Command here in Syria.<br/>Please I urgently need you to help me safeguard the amount of money I have here in my possession which is worth the sum of eleven million five hundred thousand US Dollars (11.5 Million).</p>
+<p>I came across this mega cash while on the operation, as we were on the massive attack against the ISIS terrorist group and has made a private investigation and found out the money was left by the runaway terrorists so I decided to keep the money in my possession ,</p>
+<p>But minding how horrible and risky it is here in this military camp, I deemed it necessary to look out for a trusted fellow whom would assist me in safeguarding the cash until I get out of this horrible zone. It was on this effect that I started search here online for an honest person whom I can trust to help me safeguard the cash and I came across your mail address and I want to know if you are willing to help me do this.</p>
+<p>I want you to know that I am willing to offer you 40% -Percent of the total amount if you do help me safeguard this money and get it out of here.I will email you the details on how I plan of moving the cash out of this place as soon as I receive your response</p>
+<p>Please get back to me</p>
+<p>Thanks,<br/>Cpt Todd James</p>
+--===============8062160842631862328==--
+ID de mensaje	<0100018c1cdb52b1-5eb26911-55e0-4591-80c8-64db3e87a3e7-000000@email.amazonses.com>
+Creado a las:	29 de noviembre de 2023, 12:53 (entregado en 1 segundo)
+De:	Elimination of sulfates from wastewaters by natural aluminosilicate modified with uric acid <updates@academia-mail.com>
+Para:	david2003jdmm@gmail.com
+Asunto:	Claim "Elimination of sulfates from wastewaters by natural aluminosilicate..." for your profile
+SPF:	PASS con la IP 54.240.48.249 Más información
+DKIM:	'PASS' con el dominio academia-mail.com Más información
+DMARC:	'PASS' Más información
+
+
+Descargar original	Copiar en el portapapeles	
+Delivered-To: david2003jdmm@gmail.com
+Received: by 2002:ac9:6c86:0:b0:4fb:734c:3fdf with SMTP id z6csp651179ocv;
+        Wed, 29 Nov 2023 12:53:05 -0800 (PST)
+X-Google-Smtp-Source: AGHT+IE52Uw2zTKvM7JOJ/jNzSeVjBKQ16CfAGmhzExSW4ebvLKNP6aZrmHzx4k08wL2lD156uq4
+X-Received: by 2002:a05:622a:30a:b0:423:93a5:32 with SMTP id q10-20020a05622a030a00b0042393a50032mr36745662qtw.31.1701291185473;
+        Wed, 29 Nov 2023 12:53:05 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1701291185; cv=none;
+        d=google.com; s=arc-20160816;
+        b=NCA8Pz4RfllxID5tpZtd5dhQPmeWt0feF5mNEZwyoCbLJM8qJ7MjEP5Ijq66jAKiH1
+         qEVfRx4eId/sBElbYUTvQ9IkT0veVBjTQDSDko5Pd3Bf6g2GqYNx7i94hS7vEblCU9AT
+         38GiQtKSQGgMkD/0gb4T9/WLruqBtzuJ0Tn/VFCCsyosAp7L2+0cmbRqMlmJmokQzYUC
+         LBkPvVKBf4R1vQXI65IMsU3QL6uesu4oFhwVa9pvM7pNFJZ3RMfOtgz08X/0pt8UukRa
+         K6gtQOe0P1mCBWXhidWbgcLlgI9vJw1tPEStmYw1AyYxtM/w6FwpmNOnbqBKZA7DJn3L
+         vo7g==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=feedback-id:list-unsubscribe-post:list-unsubscribe
+         :content-transfer-encoding:mime-version:subject:message-id:to:from
+         :date:dkim-signature:dkim-signature;
+        bh=f4XlzwKRZyHsn6dLbep3e3J7AsNBxZTFj3DZqA0mimw=;
+        fh=H8aH6v56M/Ff+Gv4cGoCTGhJfE5HZRbL/61OaujKtac=;
+        b=0IFVXhWCyVe7mMExA/WwXCyIUrHNIDvztWOXTXZzjjKA6S3ni7cxkD7PqmUXshwCJw
+         nBQIz82NF2o8V2Qz5aCj2QghOurF16KjP2fud7fhdddd0UGwrSymvWkGlAKXTmGfbWUS
+         e9EgtYieXakkU4FPLEWvrivKVmPV81n7niVC4b0LW8V5UJyXnvYXEPqrsjrnZnzpaMdc
+         L2nWaCT65N2SFmAi0hl/vnXrByjQieV4SABNCVkyNI9fmtgHKGKXFLe4OYx/nY71h1hR
+         cduRYzrMdIEB4uljooIWRflK2bnyHKgNKKthfxqMWzo41kvuEBMsIVdMdnBNgthYNvtk
+         qa1w==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@academia-mail.com header.s=smu4xnk7qcgopeoqqwsvairnqaewzmwa header.b=YczCrlWK;
+       dkim=pass header.i=@amazonses.com header.s=224i4yxa5dv7c2xz3womw6peuasteono header.b=XhAXOHMh;
+       spf=pass (google.com: domain of 0100018c1cdb52b1-5eb26911-55e0-4591-80c8-64db3e87a3e7-000000@bounce.academia-mail.com designates 54.240.48.249 as permitted sender) smtp.mailfrom=0100018c1cdb52b1-5eb26911-55e0-4591-80c8-64db3e87a3e7-000000@bounce.academia-mail.com;
+       dmarc=pass (p=QUARANTINE sp=QUARANTINE dis=NONE) header.from=academia-mail.com
+Return-Path: <0100018c1cdb52b1-5eb26911-55e0-4591-80c8-64db3e87a3e7-000000@bounce.academia-mail.com>
+Received: from a48-249.smtp-out.amazonses.com (a48-249.smtp-out.amazonses.com. [54.240.48.249])
+        by mx.google.com with ESMTPS id fj21-20020a05622a551500b00423e096e5f3si3535132qtb.147.2023.11.29.12.53.05
+        for <david2003jdmm@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 29 Nov 2023 12:53:05 -0800 (PST)
+Received-SPF: pass (google.com: domain of 0100018c1cdb52b1-5eb26911-55e0-4591-80c8-64db3e87a3e7-000000@bounce.academia-mail.com designates 54.240.48.249 as permitted sender) client-ip=54.240.48.249;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@academia-mail.com header.s=smu4xnk7qcgopeoqqwsvairnqaewzmwa header.b=YczCrlWK;
+       dkim=pass header.i=@amazonses.com header.s=224i4yxa5dv7c2xz3womw6peuasteono header.b=XhAXOHMh;
+       spf=pass (google.com: domain of 0100018c1cdb52b1-5eb26911-55e0-4591-80c8-64db3e87a3e7-000000@bounce.academia-mail.com designates 54.240.48.249 as permitted sender) smtp.mailfrom=0100018c1cdb52b1-5eb26911-55e0-4591-80c8-64db3e87a3e7-000000@bounce.academia-mail.com;
+       dmarc=pass (p=QUARANTINE sp=QUARANTINE dis=NONE) header.from=academia-mail.com
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; s=smu4xnk7qcgopeoqqwsvairnqaewzmwa; d=academia-mail.com; t=1701291184; h=Date:From:To:Message-ID:Subject:Mime-Version:Content-Type:Content-Transfer-Encoding:List-Unsubscribe:List-Unsubscribe-Post; bh=gFn6QHpTe5EAtS6pYOBfrjj9SCAFyDe3HYbrzNZeoZU=; b=YczCrlWKlcK9d/qpFp01sDWmJXF2yPJC4XPxD9lD+nnqBULb6tJVveHUZp3Erj97 SsU99UC+EkWfZxYtsE80Z76/wWJXf7jdHHbWhxQAneqre05GW+JSI5DtKxTLn521YTw PfBpOjYMUFY+vv4i/Oa0EffUMnzSCUVa1djEgHN4=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; s=224i4yxa5dv7c2xz3womw6peuasteono; d=amazonses.com; t=1701291184; h=Date:From:To:Message-ID:Subject:Mime-Version:Content-Type:Content-Transfer-Encoding:List-Unsubscribe:List-Unsubscribe-Post:Feedback-ID; bh=gFn6QHpTe5EAtS6pYOBfrjj9SCAFyDe3HYbrzNZeoZU=; b=XhAXOHMhGAmiuD6aq48o7B3FYoyPxhvCEzN1yEd6NWPj2PI+6NWy1J7SC02l1yrd xA2Ks0X5S+Y1vZSEXrd+f0u1wmCqcLRjPP5vcgYZIoYdcqICjZ5uwvpoSF1kBtEn9K2 apHLQ42pYmsy+o657c/HD9Tw4xcvRKGxQxB9a4VI=
+Date: Wed, 29 Nov 2023 20:53:04 +0000
+From: Elimination of sulfates from wastewaters by natural aluminosilicate modified with uric acid <updates@academia-mail.com>
+To: david2003jdmm@gmail.com
+Message-ID: <0100018c1cdb52b1-5eb26911-55e0-4591-80c8-64db3e87a3e7-000000@email.amazonses.com>
+Subject: Claim "Elimination of sulfates from wastewaters by natural aluminosilicate..." for your profile
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="--==_mimepart_6567a4afd5d5c_13724442018d"; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+x-tracking-token: u5rNr-RuRhSmy-GSE4x
+x-campaignid: claim_papers_prompt
+List-Unsubscribe: <mailto:unsubscribe@academia-noreply.com?subject=aHk1RlBzK2ZSdnI3TFNVYm42Y2pFdHZqaFJGSzY0ZW1JNjNtZkRzcUllL0hVMFF4VFdNamJqeElqbDc4cHlhRktzYU1iZ0FJZDRtSFV3S1h1Q2J0OGRSY1FxNVJ2TkFVbm5SMm5TbFNaRUxmak9YWTBkeWRIVEZrcTdBRlVnTFdCLzdFZHBmbFJka1VSSE1VMmM5WVNjaHlvcENIYnJTSjZLTEhLRkJZN244PS0tdGFVUFNRazVxTXJNRVlYNGc5SGZJQT09--2db8d6ebd530c7199c7098be17a082798ab125eb>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Feedback-ID: 1.us-east-1.+D6yPXNQsonfrDMv/Fmi8P0+JMZ6ZUD6kklooEAhQUc=:AmazonSES
+X-SES-Outgoing: 2023.11.29-54.240.48.249
+
+----==_mimepart_6567a4afd5d5c_13724442018d
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Josue, is this publication yours? Help us keep your profile up to date.
+
+Elimination of sulfates from wastewaters by natural aluminosilicate modifie=
+d with uric acid
+By De Los Santos, J., Santos, J. De Los, Cornejo-Bravo, J.M., Castillo, E.,=
+ Bogdanchikova, N., Far=C3=ADas, S.M., Mota-Morales, J.D., Reynoso, E.S., P=
+estryakov, A., Ventura, J.G. Rodr=C3=ADguez
+
+Follow the link below to add this publication to your profile:
+
+https://www.academia.edu/keypass/M1RsRkFrRENhd2huaytVaEVrVHU1eERPbWo1ZGoxdE=
+ErOWwzaGRRL1hFTT0tLUlYSWJ1S2hQeFQ5UmlOMzhldGcxN0E9PQ=3D=3D--3fd5f09143f2d65=
+58b661ebecc926619adb234fb/t/u5rNr-RuRhSmy-GSE4x/mentions/claim_papers/claim=
+?paper_id=3D315771370
+
+Adding this paper to your profile will upload it to Academia.edu.
+
+If this is not your publication, please follow the link below here to let u=
+s know:
+
+https://www.academia.edu/keypass/M1RsRkFrRENhd2huaytVaEVrVHU1eERPbWo1ZGoxdE=
+ErOWwzaGRRL1hFTT0tLUlYSWJ1S2hQeFQ5UmlOMzhldGcxN0E9PQ=3D=3D--3fd5f09143f2d65=
+58b661ebecc926619adb234fb/t/u5rNr-RuRhSmy-GSE4x/mentions_verification?antic=
+laim_paper_id=3D315771370
+
+
+
+-----
+
+Follow the link below to disable these notifications:
+
+https://academia.edu/keypass/M1RsRkFrRENhd2huaytVaEVrVHU1eERPbWo1ZGoxdEErOW=
+wzaGRRL1hFTT0tLUlYSWJ1S2hQeFQ5UmlOMzhldGcxN0E9PQ=3D=3D--3fd5f09143f2d6558b6=
+61ebecc926619adb234fb/t/u5rNr-RuRhSmy-GSE4x/confirm_unsubscribe/confirm_pap=
+ers
+
+Academia.edu, 580 California St., Suite 400, San Francisco, CA, 94104
+
+----==_mimepart_6567a4afd5d5c_13724442018d
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns=3D"http://www.w3.org/199=
+9/xhtml" style=3D"min-height: 100%; background-color: #ddd;">
+<head>
+<meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"Content-Type" />
+<meta content=3D"width=3Ddevice-width" name=3D"viewport" />
+
+<style>.u-hover-bgColorAqua:hover {
+background-color: cyan !important;
+}
+.u-hover-bgColorBlue:hover {
+background-color: #0954D3 !important;
+}
+.u-hover-bgColorBlueLight:hover {
+background-color: #99B1C4 !important;
+}
+.u-hover-bgColorBlueLighter:hover {
+background-color: #c3d2dd !important;
+}
+.u-hover-bgColorBlueLightest:hover {
+background-color: #eff3f6 !important;
+}
+.u-hover-bgColorGreen:hover {
+background-color: #1A8A20 !important;
+}
+.u-hover-bgColorRed:hover {
+background-color: #e83a30 !important;
+}
+.u-hover-bgColorOrange:hover {
+background-color: #e86830 !important;
+}
+.u-hover-bgColorYellow:hover {
+background-color: #e8b730 !important;
+}
+.u-hover-bgColorPurple:hover {
+background-color: #8400bc !important;
+}
+.u-hover-bgColorWhite:hover {
+background-color: #fff !important;
+}
+.u-hover-bgColorBlack:hover {
+background-color: #000 !important;
+}
+.u-hover-bgColorGrayDarkest:hover {
+background-color: #4b4b4b !important;
+}
+.u-hover-bgColorGrayDarker:hover {
+background-color: #777 !important;
+}
+.u-hover-bgColorGrayDark:hover {
+background-color: #999 !important;
+}
+.u-hover-bgColorGray:hover {
+background-color: #ccc !important;
+}
+.u-hover-bgColorGrayLight:hover {
+background-color: #ddd !important;
+}
+.u-hover-bgColorGrayLighter:hover {
+background-color: #f1f1f1 !important;
+}
+.u-hover-bgColorGrayLightest:hover {
+background-color: #f8f8f8 !important;
+}
+.u-hover-bgColorPremium:hover {
+background-color: #f67e00 !important;
+}
+.u-hover-bgColorTransparent:hover {
+background-color: rgba(0,0,0,0) !important;
+}
+.u-hover-bgColorGoogleRed:hover {
+background-color: #dc4b38 !important;
+}
+.u-hover-bgColorGoogle:hover {
+background-color: #4285F4 !important;
+}
+.u-hover-bgColorGreenDiscount:hover {
+background-color: #4BC012 !important;
+}
+.u-hover-bgColorGreenPremium:hover {
+background-color: #4BC012 !important;
+}
+.u-hover-bgColorBlueStudent:hover {
+background-color: #288AE2 !important;
+}
+.u-hover-bgColorReefGold:hover {
+background-color: #AD9333 !important;
+}
+.u-hover-opacity0_5:hover {
+opacity: .5 !important;
+}
+.u-hover-opacity1:hover {
+opacity: 1 !important;
+}
+.u-onHover-tcAqua:hover {
+color: cyan !important;
+}
+.u-onHover-tcBlue:hover {
+color: #0954D3 !important;
+}
+.u-onHover-tcBlueLight:hover {
+color: #99B1C4 !important;
+}
+.u-onHover-tcBlueLighter:hover {
+color: #c3d2dd !important;
+}
+.u-onHover-tcBlueLightest:hover {
+color: #eff3f6 !important;
+}
+.u-onHover-tcGreen:hover {
+color: #1A8A20 !important;
+}
+.u-onHover-tcRed:hover {
+color: #e83a30 !important;
+}
+.u-onHover-tcOrange:hover {
+color: #e86830 !important;
+}
+.u-onHover-tcYellow:hover {
+color: #e8b730 !important;
+}
+.u-onHover-tcPurple:hover {
+color: #8400bc !important;
+}
+.u-onHover-tcWhite:hover {
+color: #fff !important;
+}
+.u-onHover-tcBlack:hover {
+color: #000 !important;
+}
+.u-onHover-tcGrayDarkest:hover {
+color: #4b4b4b !important;
+}
+.u-onHover-tcGrayDarker:hover {
+color: #777 !important;
+}
+.u-onHover-tcGrayDark:hover {
+color: #999 !important;
+}
+.u-onHover-tcGray:hover {
+color: #ccc !important;
+}
+.u-onHover-tcGrayLight:hover {
+color: #ddd !important;
+}
+.u-onHover-tcGrayLighter:hover {
+color: #f1f1f1 !important;
+}
+.u-onHover-tcGrayLightest:hover {
+color: #f8f8f8 !important;
+}
+.u-onHover-tcPremium:hover {
+color: #f67e00 !important;
+}
+.u-onHover-tcTransparent:hover {
+color: rgba(0,0,0,0) !important;
+}
+.u-onHover-tcGoogleRed:hover {
+color: #dc4b38 !important;
+}
+.u-onHover-tcGoogle:hover {
+color: #4285F4 !important;
+}
+.u-onHover-tcGreenDiscount:hover {
+color: #4BC012 !important;
+}
+.u-onHover-tcGreenPremium:hover {
+color: #4BC012 !important;
+}
+.u-onHover-tcBlueStudent:hover {
+color: #288AE2 !important;
+}
+.u-onHover-tcReefGold:hover {
+color: #AD9333 !important;
+}
+.u-textDecorationLink:hover {
+text-decoration: underline !important; cursor: pointer;
+}
+.u-textDecorationNone:hover {
+text-decoration: none !important;
+}
+.u-linkUnstyled:hover {
+color: inherit; cursor: pointer;
+}
+.u-commaList&gt;li:only-of-type:before {
+content: ''; padding: 0;
+}
+.u-commaList&gt;li:only-of-type:after {
+content: ''; padding: 0;
+}
+.u-commaList&gt;li:after {
+content: ', '; padding-right: 0;
+}
+.u-commaList&gt;li:last-child:after {
+content: ''; clear: both;
+}
+.u-showOnFocus:focus {
+position: static; width: auto; height: auto;
+}
+body {
+width: 100% !important; min-width: 100%; -webkit-text-size-adjust: 100%; -m=
+s-text-size-adjust: 100%; margin: 0; padding: 0; box-sizing: border-box;
+}
+.ExternalClass {
+width: 100%;
+}
+.ExternalClass {
+line-height: 100%;
+}
+#backgroundTable {
+margin: 0; padding: 0; width: 100% !important; line-height: 100% !important=
+;
+}
+img {
+outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; widt=
+h: auto; max-width: 100%; clear: both; display: block;
+}
+body {
+color: #000; font-family: Helvetica,Arial,sans-serif; font-weight: normal; =
+padding: 0; margin: 0; text-align: left; line-height: 150%;
+}
+body {
+font-size: 16px; line-height: 150%;
+}
+a:hover {
+color: #166dba;
+}
+a:active {
+color: #166dba;
+}
+a:visited {
+color: #1E88E5;
+}
+h1 a:visited {
+color: #1E88E5;
+}
+h2 a:visited {
+color: #1E88E5;
+}
+h3 a:visited {
+color: #1E88E5;
+}
+h4 a:visited {
+color: #1E88E5;
+}
+h5 a:visited {
+color: #1E88E5;
+}
+h6 a:visited {
+color: #1E88E5;
+}
+table.button:hover table tr td a {
+color: #fefefe;
+}
+table.button:active table tr td a {
+color: #fefefe;
+}
+table.button table tr td a:visited {
+color: #fefefe;
+}
+table.button.tiny:hover table tr td a {
+color: #fefefe;
+}
+table.button.tiny:active table tr td a {
+color: #fefefe;
+}
+table.button.tiny table tr td a:visited {
+color: #fefefe;
+}
+table.button.small:hover table tr td a {
+color: #fefefe;
+}
+table.button.small:active table tr td a {
+color: #fefefe;
+}
+table.button.small table tr td a:visited {
+color: #fefefe;
+}
+table.button.large:hover table tr td a {
+color: #fefefe;
+}
+table.button.large:active table tr td a {
+color: #fefefe;
+}
+table.button.large table tr td a:visited {
+color: #fefefe;
+}
+table.button:hover table td {
+background: #166dba; color: #fefefe;
+}
+table.button:visited table td {
+background: #166dba; color: #fefefe;
+}
+table.button:active table td {
+background: #166dba; color: #fefefe;
+}
+table.button:hover table a {
+border: 0 solid #166dba;
+}
+table.button:visited table a {
+border: 0 solid #166dba;
+}
+table.button:active table a {
+border: 0 solid #166dba;
+}
+table.button.secondary:hover table td {
+background: #919191; color: #fefefe;
+}
+table.button.secondary:hover table a {
+border: 0 solid #919191;
+}
+table.button.secondary:hover table td a {
+color: #fefefe;
+}
+table.button.secondary:active table td a {
+color: #fefefe;
+}
+table.button.secondary table td a:visited {
+color: #fefefe;
+}
+table.button.success:hover table td {
+background: #39910e;
+}
+table.button.success:hover table a {
+border: 0 solid #39910e;
+}
+table.button.alert:hover table td {
+background: #e23317;
+}
+table.button.alert:hover table a {
+border: 0 solid #e23317;
+}
+table.button.warning:hover table td {
+background: #cc8b00;
+}
+table.button.warning:hover table a {
+border: 0px solid #cc8b00;
+}
+.thumbnail:hover {
+box-shadow: 0 0 6px 1px rgba(30,136,229,0.5);
+}
+.thumbnail:focus {
+box-shadow: 0 0 6px 1px rgba(30,136,229,0.5);
+}
+body.outlook p {
+display: inline !important;
+}
+@media only screen and (max-width: 624px) {
+  .small-float-center {
+    margin: 0 auto !important; float: none !important; text-align: center !=
+important;
+  }
+  .small-text-center {
+    text-align: center !important;
+  }
+  .small-text-left {
+    text-align: left !important;
+  }
+  .small-text-right {
+    text-align: right !important;
+  }
+  .hide-for-large {
+    display: block !important; width: auto !important; overflow: visible !i=
+mportant; max-height: none !important; font-size: inherit !important; line-=
+height: inherit !important;
+  }
+  table.body table.container .hide-for-large {
+    display: table !important; width: 100% !important;
+  }
+  table.body table.container .row.hide-for-large {
+    display: table !important; width: 100% !important;
+  }
+  table.body table.container .callout-inner.hide-for-large {
+    display: table-cell !important; width: 100% !important;
+  }
+  table.body table.container .show-for-large {
+    display: none !important; width: 0; mso-hide: all; overflow: hidden;
+  }
+  table.body img {
+    width: auto; height: auto;
+  }
+  table.body center {
+    min-width: 0 !important;
+  }
+  table.body .container {
+    width: 95% !important;
+  }
+  table.body .columns {
+    height: auto !important; box-sizing: border-box; padding-left: 24px !im=
+portant; padding-right: 24px !important;
+  }
+  table.body .column {
+    height: auto !important; box-sizing: border-box; padding-left: 24px !im=
+portant; padding-right: 24px !important;
+  }
+  table.body .columns .column {
+    padding-left: 0 !important; padding-right: 0 !important;
+  }
+  table.body .columns .columns {
+    padding-left: 0 !important; padding-right: 0 !important;
+  }
+  table.body .column .column {
+    padding-left: 0 !important; padding-right: 0 !important;
+  }
+  table.body .column .columns {
+    padding-left: 0 !important; padding-right: 0 !important;
+  }
+  table.body .collapse .columns {
+    padding-left: 0 !important; padding-right: 0 !important;
+  }
+  table.body .collapse .column {
+    padding-left: 0 !important; padding-right: 0 !important;
+  }
+  td.small-1 {
+    display: inline-block !important; width: 8.333333% !important;
+  }
+  th.small-1 {
+    display: inline-block !important; width: 8.333333% !important;
+  }
+  td.small-2 {
+    display: inline-block !important; width: 16.666666% !important;
+  }
+  th.small-2 {
+    display: inline-block !important; width: 16.666666% !important;
+  }
+  td.small-3 {
+    display: inline-block !important; width: 25% !important;
+  }
+  th.small-3 {
+    display: inline-block !important; width: 25% !important;
+  }
+  td.small-4 {
+    display: inline-block !important; width: 33.333333% !important;
+  }
+  th.small-4 {
+    display: inline-block !important; width: 33.333333% !important;
+  }
+  td.small-5 {
+    display: inline-block !important; width: 41.666666% !important;
+  }
+  th.small-5 {
+    display: inline-block !important; width: 41.666666% !important;
+  }
+  td.small-6 {
+    display: inline-block !important; width: 50% !important;
+  }
+  th.small-6 {
+    display: inline-block !important; width: 50% !important;
+  }
+  td.small-7 {
+    display: inline-block !important; width: 58.333333% !important;
+  }
+  th.small-7 {
+    display: inline-block !important; width: 58.333333% !important;
+  }
+  td.small-8 {
+    display: inline-block !important; width: 66.666666% !important;
+  }
+  th.small-8 {
+    display: inline-block !important; width: 66.666666% !important;
+  }
+  td.small-9 {
+    display: inline-block !important; width: 75% !important;
+  }
+  th.small-9 {
+    display: inline-block !important; width: 75% !important;
+  }
+  td.small-10 {
+    display: inline-block !important; width: 83.333333% !important;
+  }
+  th.small-10 {
+    display: inline-block !important; width: 83.333333% !important;
+  }
+  td.small-11 {
+    display: inline-block !important; width: 91.666666% !important;
+  }
+  th.small-11 {
+    display: inline-block !important; width: 91.666666% !important;
+  }
+  td.small-12 {
+    display: inline-block !important; width: 100% !important;
+  }
+  th.small-12 {
+    display: inline-block !important; width: 100% !important;
+  }
+  .columns td.small-12 {
+    display: block !important; width: 100% !important;
+  }
+  .column td.small-12 {
+    display: block !important; width: 100% !important;
+  }
+  .columns th.small-12 {
+    display: block !important; width: 100% !important;
+  }
+  .column th.small-12 {
+    display: block !important; width: 100% !important;
+  }
+  table.body td.small-offset-1 {
+    margin-left: 8.333333% !important;
+  }
+  table.body th.small-offset-1 {
+    margin-left: 8.333333% !important;
+  }
+  table.body td.small-offset-2 {
+    margin-left: 16.666666% !important;
+  }
+  table.body th.small-offset-2 {
+    margin-left: 16.666666% !important;
+  }
+  table.body td.small-offset-3 {
+    margin-left: 25% !important;
+  }
+  table.body th.small-offset-3 {
+    margin-left: 25% !important;
+  }
+  table.body td.small-offset-4 {
+    margin-left: 33.333333% !important;
+  }
+  table.body th.small-offset-4 {
+    margin-left: 33.333333% !important;
+  }
+  table.body td.small-offset-5 {
+    margin-left: 41.666666% !important;
+  }
+  table.body th.small-offset-5 {
+    margin-left: 41.666666% !important;
+  }
+  table.body td.small-offset-6 {
+    margin-left: 50% !important;
+  }
+  table.body th.small-offset-6 {
+    margin-left: 50% !important;
+  }
+  table.body td.small-offset-7 {
+    margin-left: 58.333333% !important;
+  }
+  table.body th.small-offset-7 {
+    margin-left: 58.333333% !important;
+  }
+  table.body td.small-offset-8 {
+    margin-left: 66.666666% !important;
+  }
+  table.body th.small-offset-8 {
+    margin-left: 66.666666% !important;
+  }
+  table.body td.small-offset-9 {
+    margin-left: 75% !important;
+  }
+  table.body th.small-offset-9 {
+    margin-left: 75% !important;
+  }
+  table.body td.small-offset-10 {
+    margin-left: 83.333333% !important;
+  }
+  table.body th.small-offset-10 {
+    margin-left: 83.333333% !important;
+  }
+  table.body td.small-offset-11 {
+    margin-left: 91.666666% !important;
+  }
+  table.body th.small-offset-11 {
+    margin-left: 91.666666% !important;
+  }
+  table.body table.columns td.expander {
+    display: none !important;
+  }
+  table.body table.columns th.expander {
+    display: none !important;
+  }
+  table.body .right-text-pad {
+    padding-left: 10px !important;
+  }
+  table.body .text-pad-right {
+    padding-left: 10px !important;
+  }
+  table.body .left-text-pad {
+    padding-right: 10px !important;
+  }
+  table.body .text-pad-left {
+    padding-right: 10px !important;
+  }
+  table.menu {
+    width: 100% !important;
+  }
+  table.menu td {
+    width: auto !important; display: inline-block !important;
+  }
+  table.menu th {
+    width: auto !important; display: inline-block !important;
+  }
+  table.menu.vertical td {
+    display: block !important;
+  }
+  table.menu.vertical th {
+    display: block !important;
+  }
+  table.menu.small-vertical td {
+    display: block !important;
+  }
+  table.menu.small-vertical th {
+    display: block !important;
+  }
+  table.menu[align=3D"center"] {
+    width: auto !important;
+  }
+  table.button.small-expand {
+    width: 100% !important;
+  }
+  table.button.small-expanded {
+    width: 100% !important;
+  }
+  table.button.small-expand table {
+    width: 100%;
+  }
+  table.button.small-expanded table {
+    width: 100%;
+  }
+  table.button.small-expand table a {
+    text-align: center !important; width: 100% !important; padding-left: 0 =
+!important; padding-right: 0 !important;
+  }
+  table.button.small-expanded table a {
+    text-align: center !important; width: 100% !important; padding-left: 0 =
+!important; padding-right: 0 !important;
+  }
+  table.button.small-expand center {
+    min-width: 0;
+  }
+  table.button.small-expanded center {
+    min-width: 0;
+  }
+  .hide-for-large-fix-2-2-2 {
+    display: block !important; width: auto !important; overflow: visible !i=
+mportant; max-height: none !important; font-size: inherit !important; line-=
+height: inherit !important;
+  }
+  .fs32-lineHeight1_2-on-small {
+    font-size: 32px !important; line-height: 1.2 !important;
+  }
+}
+</style></head>
+<body style=3D"width: 100% !important; min-width: 100%; -webkit-text-size-a=
+djust: 100%; -ms-text-size-adjust: 100%; box-sizing: border-box; color: #00=
+0; font-family: Helvetica,Arial,sans-serif; font-weight: normal; text-align=
+: left; line-height: 150%; font-size: 16px; margin: 0; padding: 0;">
+<img border=3D"0" height=3D"1" src=3D"https://www.academia.edu/t/u5rNr-RuRh=
+Smy-GSE4x/images/clear.gif" width=3D"1" style=3D"outline: none; text-decora=
+tion: none; -ms-interpolation-mode: bicubic; width: auto; max-width: 100%; =
+clear: both; display: block;" /><table class=3D"body" data-made-with-founda=
+tion=3D"" style=3D"background-color: white; border-spacing: 0; border-colla=
+pse: collapse; vertical-align: top; text-align: left; height: 100%; width: =
+100%; color: #000; font-family: Helvetica,Arial,sans-serif; font-weight: no=
+rmal; line-height: 150%; font-size: 16px; margin: 0; padding: 0;"><tr style=
+=3D"vertical-align: top; text-align: left; padding: 0;"><td align=3D"center=
+" class=3D"center" valign=3D"top" style=3D"word-wrap: break-word; -webkit-h=
+yphens: none; -ms-hyphens: none; hyphens: none; border-collapse: collapse !=
+important; vertical-align: top; text-align: left; color: #000; font-family:=
+ Helvetica,Arial,sans-serif; font-weight: normal; line-height: 150%; font-s=
+ize: 16px; word-break: break-word; margin: 0; padding: 0;"><center style=3D=
+"width: 100%; min-width: 600px;">
+<table class=3D"container--header container float-center" align=3D"center" =
+style=3D"background-color: transparent !important; border-spacing: 0; borde=
+r-collapse: collapse; vertical-align: top; text-align: center; width: 600px=
+; float: none; max-width: 600px; margin: 0 auto; padding: 0;"><tbody><tr st=
+yle=3D"vertical-align: top; text-align: left; padding: 0;"><td style=3D"wor=
+d-wrap: break-word; -webkit-hyphens: none; -ms-hyphens: none; hyphens: none=
+; border-collapse: collapse !important; vertical-align: top; text-align: le=
+ft; color: #000; font-family: Helvetica,Arial,sans-serif; font-weight: norm=
+al; line-height: 150%; font-size: 16px; word-break: break-word; margin: 0; =
+padding: 0;"><table class=3D"row" style=3D"border-spacing: 0; border-collap=
+se: collapse; vertical-align: top; text-align: left; width: 100%; position:=
+ relative; display: table; padding: 0;"><tbody><tr style=3D"vertical-align:=
+ top; text-align: left; padding: 0;"><th class=3D"small-12 large-12 columns=
+ first last" style=3D"width: 576px; color: #000; font-family: Helvetica,Ari=
+al,sans-serif; font-weight: normal; text-align: left; line-height: 150%; fo=
+nt-size: 16px; margin: 0 auto; padding: 0 24px 0px;"><table style=3D"border=
+-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: le=
+ft; width: 100%; padding: 0;"><tr style=3D"vertical-align: top; text-align:=
+ left; padding: 0;">
+<th style=3D"color: #000; font-family: Helvetica,Arial,sans-serif; font-wei=
+ght: normal; text-align: left; line-height: 150%; font-size: 16px; margin: =
+0; padding: 0;"><center data-parsed=3D"" style=3D"width: 100%; min-width: 5=
+28px;"><table class=3D"button--noBorder float-center" style=3D"border-spaci=
+ng: 0; border-collapse: collapse; vertical-align: top; text-align: center; =
+width: 100%; float: none; margin: 0px; padding: 0;" align=3D"center"><tr st=
+yle=3D"vertical-align: top; text-align: left; padding: 0;"><td style=3D"wor=
+d-wrap: break-word; -webkit-hyphens: none; -ms-hyphens: none; hyphens: none=
+; border-collapse: collapse !important; vertical-align: top; text-align: le=
+ft; color: #000; font-family: Helvetica,Arial,sans-serif; font-weight: norm=
+al; line-height: 150%; font-size: 16px; word-break: break-word; margin: 0; =
+padding: 0;"><table style=3D"border-spacing: 0; border-collapse: collapse; =
+vertical-align: top; text-align: left; width: 100%; padding: 0;"><tr style=
+=3D"vertical-align: top; text-align: left; padding: 0;"><td style=3D"backgr=
+ound-color: inherit; word-wrap: break-word; -webkit-hyphens: none; -ms-hyph=
+ens: none; hyphens: none; border-collapse: collapse !important; vertical-al=
+ign: top; text-align: center; color: #fefefe; font-family: Helvetica,Arial,=
+sans-serif; font-weight: normal; line-height: 150%; font-size: 16px; word-b=
+reak: break-word; margin: 0; padding: 0; border: none;"><a style=3D"color: =
+#fefefe; font-family: Helvetica,Arial,sans-serif; font-weight: bold; text-a=
+lign: center; line-height: 150%; text-decoration: none; font-size: 16px; di=
+splay: inline-block; border-radius: 3px; margin: 0; padding: 0px; border: n=
+one;" title=3D"Academia.edu" href=3D"https://www.academia.edu/t/u5rNr-RuRhS=
+my-GSE4x/"><img alt=3D"Academia.edu" style=3D"max-width: 265px; width: auto=
+; height: auto; outline: none; text-decoration: none; -ms-interpolation-mod=
+e: bicubic; clear: both; display: block; border: none;" src=3D"http://a.aca=
+demia-assets.com/images/emails/inky/Academia.Logo.Shadow.png" /></a></td></=
+tr></table></td></tr></table></center></th>
+<th class=3D"expander" style=3D"visibility: hidden; width: 0; color: #000; =
+font-family: Helvetica,Arial,sans-serif; font-weight: normal; text-align: l=
+eft; line-height: 150%; font-size: 16px; margin: 0; padding: 0;"></th>
+</tr></table></th></tr></tbody></table></td></tr></tbody></table>
+<table style=3D"width: 100%; max-width: 600px; border-spacing: 0; border-co=
+llapse: collapse; vertical-align: top; text-align: center; float: none; mar=
+gin: 0 auto; padding: 0;" align=3D"center" class=3D"float-center"><tr style=
+=3D"vertical-align: top; text-align: left; padding: 0;">
+<td style=3D"word-wrap: break-word; -webkit-hyphens: none; -ms-hyphens: non=
+e; hyphens: none; border-collapse: collapse !important; vertical-align: top=
+; text-align: left; color: #000; font-family: Helvetica,Arial,sans-serif; f=
+ont-weight: normal; line-height: 150%; font-size: 16px; word-break: break-w=
+ord; margin: 0; padding: 0;"></td>
+<td style=3D"width: 600px; word-wrap: break-word; -webkit-hyphens: none; -m=
+s-hyphens: none; hyphens: none; border-collapse: collapse !important; verti=
+cal-align: top; text-align: left; color: #000; font-family: Helvetica,Arial=
+,sans-serif; font-weight: normal; line-height: 150%; font-size: 16px; word-=
+break: break-word; margin: 0; padding: 0;"><table style=3D"border-spacing: =
+0; border-collapse: collapse; vertical-align: top; text-align: left; paddin=
+g: 0;">
+<tr style=3D"vertical-align: top; text-align: left; padding: 0;"><td class=
+=3D"container-row u-ph1x" style=3D"word-wrap: break-word; -webkit-hyphens: =
+none; -ms-hyphens: none; hyphens: none; border-collapse: collapse !importan=
+t; vertical-align: top; text-align: left; color: #000; font-family: Helveti=
+ca,Arial,sans-serif; font-weight: normal; line-height: 150%; font-size: 16p=
+x; word-break: break-word; margin: 0; padding: 20px 4px;">Josue, is this pu=
+blication yours? Help us keep your profile up to date.</td></tr>
+<tr style=3D"vertical-align: top; text-align: left; padding: 0;"><td class=
+=3D"container-row u-ph1x" style=3D"word-wrap: break-word; -webkit-hyphens: =
+none; -ms-hyphens: none; hyphens: none; border-collapse: collapse !importan=
+t; vertical-align: top; text-align: left; color: #000; font-family: Helveti=
+ca,Arial,sans-serif; font-weight: normal; line-height: 150%; font-size: 16p=
+x; word-break: break-word; margin: 0; padding: 0 4px;"><center style=3D"wid=
+th: 100%; min-width: 600px;"><table align=3D"center" class=3D"float-center"=
+ style=3D"border-spacing: 0; border-collapse: collapse; vertical-align: top=
+; text-align: center; float: none; margin: 0 auto; padding: 0;"><tr style=
+=3D"vertical-align: top; text-align: left; padding: 0;"><td class=3D"contai=
+ner-row u-ph1x" style=3D"word-wrap: break-word; -webkit-hyphens: none; -ms-=
+hyphens: none; hyphens: none; border-collapse: collapse !important; vertica=
+l-align: top; text-align: left; color: #000; font-family: Helvetica,Arial,s=
+ans-serif; font-weight: normal; line-height: 150%; font-size: 16px; word-br=
+eak: break-word; margin: 0; padding: 0 4px;">
+
+<table class=3D"box u-borderBottom1 u-borderColorGrayDark" style=3D"width: =
+100%; background-color: #FCFCFC; border-spacing: 0; border-collapse: separa=
+te; vertical-align: top; text-align: left; border-radius: 20px; overflow: h=
+idden; margin-bottom: 24px; padding: 0; border: 1px solid #999;"><tr style=
+=3D"vertical-align: top; text-align: left; padding: 0;"><td class=3D"paper-=
+top" style=3D"width: 100%; word-wrap: break-word; -webkit-hyphens: none; -m=
+s-hyphens: none; hyphens: none; border-collapse: collapse !important; verti=
+cal-align: top; text-align: left; color: #000; font-family: Helvetica,Arial=
+,sans-serif; font-weight: normal; line-height: 150%; font-size: 16px; word-=
+break: break-word; margin: 0; padding: 24px;">
+<table style=3D"width: 100%; border-spacing: 0; border-collapse: collapse; =
+vertical-align: top; text-align: left; padding: 0;">
+<tr style=3D"width: 100%; vertical-align: top; text-align: left; padding: 0=
+;"><td class=3D"work-card-title-container" colspan=3D"2" style=3D"word-wrap=
+: break-word; -webkit-hyphens: none; -ms-hyphens: none; hyphens: none; bord=
+er-collapse: collapse !important; vertical-align: top; text-align: left; co=
+lor: #000; font-family: Helvetica,Arial,sans-serif; font-weight: normal; li=
+ne-height: 150%; font-size: 16px; word-break: break-word; overflow: hidden;=
+ text-overflow: ellipsis; margin: 0; padding: 0;"><span class=3D"work-card-=
+title" style=3D"display: block; font-family: Georgia, Times, 'Times New Rom=
+an', serif; color: #333; text-decoration: none; margin-bottom: 10px; font-s=
+ize: 24px; line-height: 1.3em;">Elimination of sulfates from wastewaters by=
+ natural aluminosilicate modified with uric acid</span></td></tr>
+<tr style=3D"width: 100%; vertical-align: top; text-align: left; padding: 0=
+;"><td class=3D"work-card-info-container" style=3D"word-wrap: break-word; -=
+webkit-hyphens: none; -ms-hyphens: none; hyphens: none; border-collapse: co=
+llapse !important; vertical-align: top; text-align: left; color: #000; font=
+-family: Helvetica,Arial,sans-serif; font-weight: normal; line-height: 150%=
+; font-size: 16px; word-break: break-word; margin: 0; padding: 0;"><table s=
+tyle=3D"width: 100%; border-spacing: 0; border-collapse: collapse; vertical=
+-align: top; text-align: left; padding: 0;">
+<tr style=3D"vertical-align: top; text-align: left; padding: 0;"><td colspa=
+n=3D"3" style=3D"word-wrap: break-word; -webkit-hyphens: none; -ms-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-align:=
+ top; text-align: left; color: #000; font-family: Helvetica,Arial,sans-seri=
+f; font-weight: normal; line-height: 150%; font-size: 16px; word-break: bre=
+ak-word; margin: 0; padding: 0;"><p class=3D"work-card-author" style=3D"col=
+or: #000000; font-family: Helvetica; font-weight: normal; text-align: left;=
+ line-height: 28px; font-size: 15px; letter-spacing: 0.4px; margin: 0; padd=
+ing: 0;">Mota Morales, J.D.</p></td></tr>
+<tr style=3D"vertical-align: top; text-align: left; padding: 0;"><td style=
+=3D"word-wrap: break-word; -webkit-hyphens: none; -ms-hyphens: none; hyphen=
+s: none; border-collapse: collapse !important; vertical-align: top; text-al=
+ign: left; color: #000; font-family: Helvetica,Arial,sans-serif; font-weigh=
+t: normal; line-height: 150%; font-size: 16px; word-break: break-word; marg=
+in: 0; padding: 0;"><div class=3D"work-card-publication-info" style=3D"colo=
+r: #595959; overflow: hidden; font-size: 13px; line-height: 20px; font-fami=
+ly: 'Helvetica Neue', sans-serif;">2015, Resource-Efficient Technologies</d=
+iv></td></tr>
+<tr style=3D"vertical-align: top; text-align: left; padding: 0;"><td style=
+=3D"height: 24px; word-wrap: break-word; -webkit-hyphens: none; -ms-hyphens=
+: none; hyphens: none; border-collapse: collapse !important; vertical-align=
+: top; text-align: left; color: #000; font-family: Helvetica,Arial,sans-ser=
+if; font-weight: normal; line-height: 150%; font-size: 16px; word-break: br=
+eak-word; margin: 0; padding: 0;"></td></tr>
+<tr style=3D"vertical-align: top; text-align: left; padding: 0;">
+<td style=3D"word-wrap: break-word; -webkit-hyphens: none; -ms-hyphens: non=
+e; hyphens: none; border-collapse: collapse !important; vertical-align: top=
+; text-align: left; color: #000; font-family: Helvetica,Arial,sans-serif; f=
+ont-weight: normal; line-height: 150%; font-size: 16px; word-break: break-w=
+ord; margin: 0; padding: 0;"><table style=3D"width: 100%; border-spacing: 0=
+; border-collapse: collapse; vertical-align: top; text-align: left; padding=
+: 0;"><tr style=3D"vertical-align: top; text-align: left; padding: 0;">
+<td style=3D"word-wrap: break-word; -webkit-hyphens: none; -ms-hyphens: non=
+e; hyphens: none; border-collapse: collapse !important; vertical-align: top=
+; text-align: left; color: #000; font-family: Helvetica,Arial,sans-serif; f=
+ont-weight: normal; line-height: 150%; font-size: 16px; word-break: break-w=
+ord; margin: 0; padding: 0;">
+
+<!--[if gte mso 9]><td width=3D"170"><table width=3D"170"><tr><td bgcolor=
+=3D"#0954D3" style=3D"height: 52px; width: 170px; text-align: center; borde=
+r: 2px solid #0954D3"><table style=3D"width: 100%; height: 100%"><tr><td al=
+ign=3D"center"><a href=3D"https://www.academia.edu/keypass/M1RsRkFrRENhd2hu=
+aytVaEVrVHU1eERPbWo1ZGoxdEErOWwzaGRRL1hFTT0tLUlYSWJ1S2hQeFQ5UmlOMzhldGcxN0E=
+9PQ=3D=3D--3fd5f09143f2d6558b661ebecc926619adb234fb/t/u5rNr-RuRhSmy-GSE4x/m=
+entions/claim_papers/claim?paper_id=3D315771370" style=3D"color: #fff; text=
+-decoration: none; font-size: 16px; font-weight: 600;">Add to Profile</a></=
+td></tr></table></td></tr></table></td><![endif]--><!--[if !gte mso 9]-->
+</td>
+<td style=3D"word-wrap: break-word; -webkit-hyphens: none; -ms-hyphens: non=
+e; hyphens: none; border-collapse: collapse !important; vertical-align: top=
+; text-align: left; color: #000; font-family: Helvetica,Arial,sans-serif; f=
+ont-weight: normal; line-height: 150%; font-size: 16px; word-break: break-w=
+ord; margin: 0; padding: 0;"><a class=3D"button" href=3D"https://www.academ=
+ia.edu/keypass/M1RsRkFrRENhd2huaytVaEVrVHU1eERPbWo1ZGoxdEErOWwzaGRRL1hFTT0t=
+LUlYSWJ1S2hQeFQ5UmlOMzhldGcxN0E9PQ=3D=3D--3fd5f09143f2d6558b661ebecc926619a=
+db234fb/t/u5rNr-RuRhSmy-GSE4x/mentions/claim_papers/claim?paper_id=3D315771=
+370" style=3D"color: #fff; background-color: #0954D3; width: 100%; min-widt=
+h: 150px; font-family: Helvetica,Arial,sans-serif; font-weight: 600; text-a=
+lign: center; line-height: 150%; text-decoration: none; justify-content: ce=
+nter; align-items: center; align-self: center; box-sizing: border-box; font=
+-size: 16px; display: block; margin: 0; padding: 12px 0; border: 2px solid =
+#0954d3;">Add to Profile</a></td>
+<!--[endif]-->
+</tr></table></td>
+<td style=3D"width: 12px; word-wrap: break-word; -webkit-hyphens: none; -ms=
+-hyphens: none; hyphens: none; border-collapse: collapse !important; vertic=
+al-align: top; text-align: left; color: #000; font-family: Helvetica,Arial,=
+sans-serif; font-weight: normal; line-height: 150%; font-size: 16px; word-b=
+reak: break-word; margin: 0; padding: 0;"></td>
+<td style=3D"word-wrap: break-word; -webkit-hyphens: none; -ms-hyphens: non=
+e; hyphens: none; border-collapse: collapse !important; vertical-align: top=
+; text-align: left; color: #000; font-family: Helvetica,Arial,sans-serif; f=
+ont-weight: normal; line-height: 150%; font-size: 16px; word-break: break-w=
+ord; margin: 0; padding: 0;"><table style=3D"width: 100%; border-spacing: 0=
+; border-collapse: collapse; vertical-align: top; text-align: left; padding=
+: 0;"><tr style=3D"vertical-align: top; text-align: left; padding: 0;">
+<td style=3D"word-wrap: break-word; -webkit-hyphens: none; -ms-hyphens: non=
+e; hyphens: none; border-collapse: collapse !important; vertical-align: top=
+; text-align: left; color: #000; font-family: Helvetica,Arial,sans-serif; f=
+ont-weight: normal; line-height: 150%; font-size: 16px; word-break: break-w=
+ord; margin: 0; padding: 0;">
+
+<!--[if gte mso 9]><td width=3D"170"><table width=3D"170"><tr><td bgcolor=
+=3D"#fff" style=3D"height: 52px; width: 170px; text-align: center; border: =
+2px solid #0954D3"><table style=3D"width: 100%; height: 100%"><tr><td align=
+=3D"center"><a href=3D"https://www.academia.edu/keypass/M1RsRkFrRENhd2huayt=
+VaEVrVHU1eERPbWo1ZGoxdEErOWwzaGRRL1hFTT0tLUlYSWJ1S2hQeFQ5UmlOMzhldGcxN0E9PQ=
+=3D=3D--3fd5f09143f2d6558b661ebecc926619adb234fb/t/u5rNr-RuRhSmy-GSE4x/ment=
+ions_verification?anticlaim_paper_id=3D315771370" style=3D"color: #0954D3; =
+text-decoration: none; font-size: 16px; font-weight: 600;">This Is Not Me</=
+a></td></tr></table></td></tr></table></td><![endif]--><!--[if !gte mso 9]-=
+->
+</td>
+<td style=3D"word-wrap: break-word; -webkit-hyphens: none; -ms-hyphens: non=
+e; hyphens: none; border-collapse: collapse !important; vertical-align: top=
+; text-align: left; color: #000; font-family: Helvetica,Arial,sans-serif; f=
+ont-weight: normal; line-height: 150%; font-size: 16px; word-break: break-w=
+ord; margin: 0; padding: 0;"><a class=3D"button" href=3D"https://www.academ=
+ia.edu/keypass/M1RsRkFrRENhd2huaytVaEVrVHU1eERPbWo1ZGoxdEErOWwzaGRRL1hFTT0t=
+LUlYSWJ1S2hQeFQ5UmlOMzhldGcxN0E9PQ=3D=3D--3fd5f09143f2d6558b661ebecc926619a=
+db234fb/t/u5rNr-RuRhSmy-GSE4x/mentions_verification?anticlaim_paper_id=3D31=
+5771370" style=3D"color: #0954D3; background-color: #fff; width: 100%; min-=
+width: 150px; font-family: Helvetica,Arial,sans-serif; font-weight: 600; te=
+xt-align: center; line-height: 150%; text-decoration: none; justify-content=
+: center; align-items: center; align-self: center; box-sizing: border-box; =
+font-size: 16px; display: block; margin: 0; padding: 12px 0; border: 2px so=
+lid #0954d3;">This Is Not Me</a></td>
+<!--[endif]-->
+</tr></table></td>
+</tr>
+</table></td></tr>
+</table>
+<table style=3D"border-spacing: 0; border-collapse: collapse; vertical-alig=
+n: top; text-align: left; padding: 0;">
+<tr style=3D"vertical-align: top; text-align: left; padding: 0;"><td style=
+=3D"height: 14px; word-wrap: break-word; -webkit-hyphens: none; -ms-hyphens=
+: none; hyphens: none; border-collapse: collapse !important; vertical-align=
+: top; text-align: left; color: #000; font-family: Helvetica,Arial,sans-ser=
+if; font-weight: normal; line-height: 150%; font-size: 16px; word-break: br=
+eak-word; margin: 0; padding: 0;"></td></tr>
+<tr style=3D"vertical-align: top; text-align: left; padding: 0;"><td style=
+=3D"font-size: 14px; color: #979797; word-wrap: break-word; -webkit-hyphens=
+: none; -ms-hyphens: none; hyphens: none; border-collapse: collapse !import=
+ant; vertical-align: top; text-align: left; font-family: Helvetica,Arial,sa=
+ns-serif; font-weight: normal; line-height: 150%; word-break: break-word; m=
+argin: 0; padding: 0;">Adding this paper will upload it to Academia.edu.</t=
+d></tr>
+</table>
+</td></tr></table>
+</td></tr></table></center></td></tr>
+</table></td>
+</tr></table>
+<table class=3D"spacer float-center" align=3D"center" style=3D"border-spaci=
+ng: 0; border-collapse: collapse; vertical-align: top; text-align: center; =
+width: 100%; float: none; margin: 0 auto; padding: 0;"><tbody><tr style=3D"=
+vertical-align: top; text-align: left; padding: 0;"><td height=3D"40" style=
+=3D"font-size: 40px; line-height: 40px; word-wrap: break-word; -webkit-hyph=
+ens: none; -ms-hyphens: none; hyphens: none; border-collapse: collapse !imp=
+ortant; vertical-align: top; text-align: left; mso-line-height-rule: exactl=
+y; color: #000; font-family: Helvetica,Arial,sans-serif; font-weight: norma=
+l; word-break: break-word; margin: 0; padding: 0;">=C2=A0</td></tr></tbody>=
+</table>
+<table class=3D"container--footer container float-center" align=3D"center" =
+style=3D"background-color: transparent !important; border-spacing: 0; borde=
+r-collapse: collapse; vertical-align: top; text-align: center; width: 600px=
+; float: none; max-width: 600px; margin: 0 auto; padding: 0;"><tbody><tr st=
+yle=3D"vertical-align: top; text-align: left; padding: 0;"><td style=3D"wor=
+d-wrap: break-word; -webkit-hyphens: none; -ms-hyphens: none; hyphens: none=
+; border-collapse: collapse !important; vertical-align: top; text-align: le=
+ft; color: #000; font-family: Helvetica,Arial,sans-serif; font-weight: norm=
+al; line-height: 150%; font-size: 16px; word-break: break-word; margin: 0; =
+padding: 0;"><table class=3D"row" style=3D"border-spacing: 0; border-collap=
+se: collapse; vertical-align: top; text-align: left; width: 100%; position:=
+ relative; display: table; padding: 0;"><tbody><tr style=3D"vertical-align:=
+ top; text-align: left; padding: 0;"><th class=3D"small-12 large-12 columns=
+ first last" style=3D"width: 576px; color: #000; font-family: Helvetica,Ari=
+al,sans-serif; font-weight: normal; text-align: left; line-height: 150%; fo=
+nt-size: 16px; margin: 0 auto; padding: 0 24px 16px;"><table style=3D"borde=
+r-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: l=
+eft; width: 100%; padding: 0;"><tr style=3D"vertical-align: top; text-align=
+: left; padding: 0;">
+<th style=3D"color: #000; font-family: Helvetica,Arial,sans-serif; font-wei=
+ght: normal; text-align: left; line-height: 150%; font-size: 16px; margin: =
+0; padding: 0;">
+<p class=3D"text-center u-fs11 u-tcGrayDark" style=3D"font-size: 11px !impo=
+rtant; color: #999 !important; text-align: center; font-family: Helvetica,A=
+rial,sans-serif; font-weight: normal; line-height: 150%; margin: 0 0 10px; =
+padding: 0;"><a style=3D"color: #999; font-family: Helvetica,Arial,sans-ser=
+if; font-weight: normal; text-align: left; line-height: 150%; text-decorati=
+on: none; margin: 0; padding: 0;">580 California St., Suite 400, San Franci=
+sco, CA, 94104</a></p>
+<p class=3D"text-center u-fs11" style=3D"font-size: 11px !important; text-a=
+lign: center; color: #000; font-family: Helvetica,Arial,sans-serif; font-we=
+ight: normal; line-height: 150%; margin: 0 0 10px; padding: 0;"><a class=3D=
+"u-linkUnstyled u-tcGrayDark" target=3D"_blank" href=3D"https://academia.ed=
+u/keypass/M1RsRkFrRENhd2huaytVaEVrVHU1eERPbWo1ZGoxdEErOWwzaGRRL1hFTT0tLUlYS=
+WJ1S2hQeFQ5UmlOMzhldGcxN0E9PQ=3D=3D--3fd5f09143f2d6558b661ebecc926619adb234=
+fb/t/u5rNr-RuRhSmy-GSE4x/confirm_unsubscribe/confirm_papers" style=3D"color=
+: #999 !important; font-family: Helvetica,Arial,sans-serif; font-weight: no=
+rmal; text-align: left; line-height: 150%; text-decoration: none; margin: 0=
+; padding: 0;">Unsubscribe</a>=C2=A0=C2=A0 <a class=3D"u-linkUnstyled u-tcG=
+rayDark" href=3D"https://www.academia.edu/t/u5rNr-RuRhSmy-GSE4x/privacy" ta=
+rget=3D"_blank" style=3D"color: #999 !important; font-family: Helvetica,Ari=
+al,sans-serif; font-weight: normal; text-align: left; line-height: 150%; te=
+xt-decoration: none; margin: 0; padding: 0;">Privacy=C2=A0Policy</a>=C2=A0=
+=C2=A0 <a class=3D"u-linkUnstyled u-tcGrayDark" href=3D"https://www.academi=
+a.edu/t/u5rNr-RuRhSmy-GSE4x/terms" target=3D"_blank" style=3D"color: #999 !=
+important; font-family: Helvetica,Arial,sans-serif; font-weight: normal; te=
+xt-align: left; line-height: 150%; text-decoration: none; margin: 0; paddin=
+g: 0;">Terms=C2=A0of=C2=A0Service</a>=C2=A0=C2=A0 </p>
+<p class=3D"text-center u-tcGrayDark u-fs11" style=3D"font-size: 11px !impo=
+rtant; color: #999 !important; text-align: center; font-family: Helvetica,A=
+rial,sans-serif; font-weight: normal; line-height: 150%; margin: 0 0 10px; =
+padding: 0;"><span>=C2=A9=C2=A02023=C2=A0Academia</span></p>
+</th>
+<th class=3D"expander" style=3D"visibility: hidden; width: 0; color: #000; =
+font-family: Helvetica,Arial,sans-serif; font-weight: normal; text-align: l=
+eft; line-height: 150%; font-size: 16px; margin: 0; padding: 0;"></th>
+</tr></table></th></tr></tbody></table></td></tr></tbody></table>
+</center></td></tr></table>
+<div style=3D"display: none; white-space: nowrap; font: 15px courier;"> =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0</div>
+</body>
+</html>
+
+----==_mimepart_6567a4afd5d5c_13724442018d--

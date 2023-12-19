@@ -1,0 +1,331 @@
+RetiradoA la dirección bc1qjcrkw3375dz7h7wrxggl72mex0dnehjx0uyxxm
+Jonh
+0.00494088 BTC
+
+Estado de la transacción
+COMPLETADO
+Hash de la transacción
+ Ver TRANS.
+A la billetera
+ Ver DIR./bc1qjcrkw3375dz7h7wrxggl72mex0dnehjx0uyxxm
+
+ID de transacción
+ef5d59cd-37a1-47a0-8735-1ee44a0eb212
+Monto enviado
+0.00494088 BTC
+Cargo
+0.00003000 BTC
+Monto total recibido
+0.00491088 BTC
+------------------------------------------------------------------------
+RetiradoA la dirección bc1qy9vmvfvs7ggj3q8l8f8m63qku9atchk2utsray
+Gotscam
+**** BTC
+$****
+Estado de la transacción
+CANCELADO
+A la billetera
+ Ver DIR./
+bc1qy9vmvfvs7ggj3q8l8f8m63qku9atch
+k2utsray
+bc1qy9vmvfvs7ggj3q8l8f8m63qku
+
+ID de transacción
+f672179f-f093-4224-84bd-3e898109d85e
+Cargo
+0.00003000 BTC
+----------------------------------------------------------------------------------
+
+
+
+
+Entradas y salidas
+bc1qp3f7vnmuj4pjxpfvkvf7yznac9h9r5
+arlv4fpv
+bc1qp3f7vnmuj4pjxpfvkvf7yznac9h9r5arlv4fpv
+‎0,10917502 BTC
+3H5epvKRxWHgyci9DoUN1ZjcZG
+Kpo7GeRN
+3H5epvKRxWHgyci9DoUN1ZjcZGKpo7GeRN
+‎0,00047617 BTC	
+1MMsRx4hcvJhA44L1jbF8h6TFn
+5GGuyNhM
+1MMsRx4hcvJhA44L1jbF8h6TFn5GGuyNhM
+‎0,00156220 BTC	
+bc1qjd3j2yswad5a8a9edyr5ydcjhmp0kc
+hvh2vxrv
+bc1qjd3j2yswad5a8a9edyr5ydcjhmp0kchvh2vxrv
+‎0,00069733 BTC	
+bc1qh43cxskyyhgjsp8wfv6cp5avntt6fm
+zgujd7f5
+bc1qh43cxskyyhgjsp8wfv6cp5avntt6fmzgujd7f5
+‎0,00047278 BTC	
+3FUo3McG8Xe1zA217CRrRRi9UX
+iSsZNJDH
+3FUo3McG8Xe1zA217CRrRRi9UXiSsZNJDH
+‎0,00061857 BTC	
+12AsMERAxVPqRyA6pn6F1pS1k1
+FNXVuAbQ
+12AsMERAxVPqRyA6pn6F1pS1k1FNXVuAbQ
+‎0,00457231 BTC	
+3JeLjLsHSt7UkeUpbUCt6zXhW6
+bmybpDgu
+3JeLjLsHSt7UkeUpbUCt6zXhW6bmybpDgu
+‎0,00239964 BTC	
+1NrS99mZqE8tgZ7ZGjhLiyHvJK
+EdnBuTCf
+1NrS99mZqE8tgZ7ZGjhLiyHvJKEdnBuTCf
+‎0,00196322 BTC	
+13j2bvcmAzbSF8nZuRYqcVuPnq
+kB2BBtqf
+13j2bvcmAzbSF8nZuRYqcVuPnqkB2BBtqf
+‎0,00052388 BTC	
+1PQiE5SFkjHC1Cu8t9heVUwe1K
+KSQAbAnb
+1PQiE5SFkjHC1Cu8t9heVUwe1KKSQAbAnb
+‎0,00649068 BTC	
+bc1qjcrkw3375dz7h7wrxggl72mex0dneh
+jx0uyxxm
+bc1qjcrkw3375dz7h7wrxggl72mex0dnehjx0uyxxm
+‎0,00491088 BTC	
+bc1q2ucdngxznwjrerk930yk5m4rea6gt6
+5kvzyjhw
+bc1q2ucdngxznwjrerk930yk5m4rea6gt65kvzyjhw
+‎0,00088176 BTC	
+14qwDgvDu9b7aP6Jqb7C4nNXxD
+wzk6javC
+14qwDgvDu9b7aP6Jqb7C4nNXxDwzk6javC
+‎0,00056033 BTC	
+3D45BMXjvJHT2Xt1kEJSwHkzar
+gHQhu7YZ
+3D45BMXjvJHT2Xt1kEJSwHkzargHQhu7YZ
+‎0,00472845 BTC	
+3NWnU4VTY4G7YduckUcb8xntWb
+ytdeVgKD
+3NWnU4VTY4G7YduckUcb8xntWbytdeVgKD
+‎0,00153300 BTC	
+1QB9wjxcTVFtyaGNdME37UHoop
+jU822i4w
+1QB9wjxcTVFtyaGNdME37UHoopjU822i4w
+‎0,00644599 BTC	
+bc1qh0xnmgusrzkl36msd098kmty5xsf3v
+8ps3sdpu
+bc1qh0xnmgusrzkl36msd098kmty5xsf3v8ps3sdpu
+‎0,02439000 BTC	
+165kDBCR66J25BcnCS8vfkFteo
+vcWWYD7t
+165kDBCR66J25BcnCS8vfkFteovcWWYD7t
+‎0,00061370 BTC	
+1KKCJeDn1iTPXR9uNu7ihCvGGe
+4y9kJwdQ
+1KKCJeDn1iTPXR9uNu7ihCvGGe4y9kJwdQ
+‎0,00275276 BTC	
+1EEFEcn4sMabzFDzzXUzKaS3nW
+obn57j9q
+1EEFEcn4sMabzFDzzXUzKaS3nWobn57j9q
+‎0,00489738 BTC	
+1AQYtxhYuauu5NYMFGu24rfP8v
+CAUwS1be
+1AQYtxhYuauu5NYMFGu24rfP8vCAUwS1be
+‎0,00157000 BTC	
+1PLJc9uCL5s23RtUYMXwsL5zNj
+AvVteYa3
+1PLJc9uCL5s23RtUYMXwsL5zNjAvVteYa3
+‎0,00146542 BTC	
+1JneqRErADaU1JuwgUcMBpZgWv
+68i6BaCq
+1JneqRErADaU1JuwgUcMBpZgWv68i6BaCq
+‎0,00047000 BTC	
+15KYc4WFAmFqp4HpzTKX5j7j5s
+X3mMjpfF
+15KYc4WFAmFqp4HpzTKX5j7j5sX3mMjpfF
+‎0,00085117 BTC	
+bc1qxzf3et6zlkpsdr04kz7ntualc382jt
+0sryqvm9
+bc1qxzf3et6zlkpsdr04kz7ntualc382jt0sryqvm9
+‎0,00939736 BTC	
+bc1qp3f7vnmuj4pjxpfvkvf7yznac9h9r5
+arlv4fpv
+bc1qp3f7vnmuj4pjxpfvkvf7yznac9h9r5arlv4fpv
+‎0,02335021 BTC	
+
+Detalles
+Tamaño	‎1.01 kB
+Tamaño virtual	‎931.5 vB
+Adjusted vsize	‎931.5 vB
+Peso	‎3.73 kWU
+Versión	‎1
+Tiempo de bloque	‎0
+Sigops	‎57
+Transacción en hex	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dirección
+bc1qjcrkw3375dz7h7wrxggl72mex0dneh
+jx0uyxxm
+bc1qjcrkw3375dz7h7wrxggl72mex0dnehjx0uyxxm
+Total recibido	‎0,04789238 BTC
+Total enviado	‎0,04789238 BTC
+Saldo	‎0,00000000 BTC0,00 US$
+
+13 de 13 transacciones
+792aa712e54706680984aedb58de687bbc74b01a7b28cbebaf4b787f83d1
+11f5
+792aa712e54706680984aedb58de687bbc74b01a7b28cbebaf4b787f83d111f5
+‎2023-11-05 16:49
+bc1qjcrkw3375dz7h7wrxggl72mex0dneh
+jx0uyxxm
+bc1qjcrkw3375dz7h7wrxggl72mex0dnehjx0uyxxm
+‎0,00467916 BTC
+39EtkYdKfNdWdt88bB4aztDwFL
+rFvEyKMF
+39EtkYdKfNdWdt88bB4aztDwFLrFvEyKMF
+‎0,00460923 BTC	
+63,3 sat/vB – 6.993 sat 2,45 US$
+
+d8538a9dfc1789d04d494325e1bb1fd37bfe79a11314f1614b633580237e
+2c36
+d8538a9dfc1789d04d494325e1bb1fd37bfe79a11314f1614b633580237e2c36
+‎2023-11-05 16:10
+bc1qjcrkw3375dz7h7wrxggl72mex0dneh
+jx0uyxxm
+bc1qjcrkw3375dz7h7wrxggl72mex0dnehjx0uyxxm
+‎0,00491088 BTC
+bc1quqqwtsg5cghda3p6chmlmy6qe8n3nn
+hfpwdfv0
+bc1quqqwtsg5cghda3p6chmlmy6qe8n3nnhfpwdfv0
+‎0,00014289 BTC	
+bc1qjcrkw3375dz7h7wrxggl72mex0dneh
+jx0uyxxm
+bc1qjcrkw3375dz7h7wrxggl72mex0dnehjx0uyxxm
+‎0,00467916 BTC	
+63,3 sat/vB – 8.883 sat 3,11 US$
+
+a2e23234c2e8206c1da3b21fe39c4d1b956c7a3cac906992f9e98c87c25d
+59f2
+a2e23234c2e8206c1da3b21fe39c4d1b956c7a3cac906992f9e98c87c25d59f2
+‎2023-11-05 01:21
+bc1qp3f7vnmuj4pjxpfvkvf7yznac9h9r5
+arlv4fpv
+bc1qp3f7vnmuj4pjxpfvkvf7yznac9h9r5arlv4fpv
+‎0,10917502 BTC
+3H5epvKRxWHgyci9DoUN1ZjcZG
+Kpo7GeRN
+3H5epvKRxWHgyci9DoUN1ZjcZGKpo7GeRN
+‎0,00047617 BTC	
+1MMsRx4hcvJhA44L1jbF8h6TFn
+5GGuyNhM
+1MMsRx4hcvJhA44L1jbF8h6TFn5GGuyNhM
+‎0,00156220 BTC	
+bc1qjd3j2yswad5a8a9edyr5ydcjhmp0kc
+hvh2vxrv
+bc1qjd3j2yswad5a8a9edyr5ydcjhmp0kchvh2vxrv
+‎0,00069733 BTC	
+bc1qh43cxskyyhgjsp8wfv6cp5avntt6fm
+zgujd7f5
+bc1qh43cxskyyhgjsp8wfv6cp5avntt6fmzgujd7f5
+‎0,00047278 BTC	
+3FUo3McG8Xe1zA217CRrRRi9UX
+iSsZNJDH
+3FUo3McG8Xe1zA217CRrRRi9UXiSsZNJDH
+‎0,00061857 BTC	
+12AsMERAxVPqRyA6pn6F1pS1k1
+FNXVuAbQ
+12AsMERAxVPqRyA6pn6F1pS1k1FNXVuAbQ
+‎0,00457231 BTC	
+3JeLjLsHSt7UkeUpbUCt6zXhW6
+bmybpDgu
+3JeLjLsHSt7UkeUpbUCt6zXhW6bmybpDgu
+‎0,00239964 BTC	
+1NrS99mZqE8tgZ7ZGjhLiyHvJK
+EdnBuTCf
+1NrS99mZqE8tgZ7ZGjhLiyHvJKEdnBuTCf
+‎0,00196322 BTC	
+13j2bvcmAzbSF8nZuRYqcVuPnq
+kB2BBtqf
+13j2bvcmAzbSF8nZuRYqcVuPnqkB2BBtqf
+‎0,00052388 BTC	
+1PQiE5SFkjHC1Cu8t9heVUwe1K
+KSQAbAnb
+1PQiE5SFkjHC1Cu8t9heVUwe1KKSQAbAnb
+‎0,00649068 BTC	
+bc1qjcrkw3375dz7h7wrxggl72mex0dneh
+jx0uyxxm
+bc1qjcrkw3375dz7h7wrxggl72mex0dnehjx0uyxxm
+‎0,00491088 BTC	
+bc1q2ucdngxznwjrerk930yk5m4rea6gt6
+5kvzyjhw
+bc1q2ucdngxznwjrerk930yk5m4rea6gt65kvzyjhw
+‎0,00088176 BTC	
+14qwDgvDu9b7aP6Jqb7C4nNXxD
+wzk6javC
+14qwDgvDu9b7aP6Jqb7C4nNXxDwzk6javC
+‎0,00056033 BTC	
+3D45BMXjvJHT2Xt1kEJSwHkzar
+gHQhu7YZ
+3D45BMXjvJHT2Xt1kEJSwHkzargHQhu7YZ
+‎0,00472845 BTC	
+3NWnU4VTY4G7YduckUcb8xntWb
+ytdeVgKD
+3NWnU4VTY4G7YduckUcb8xntWbytdeVgKD
+‎0,00153300 BTC	
+1QB9wjxcTVFtyaGNdME37UHoop
+jU822i4w
+1QB9wjxcTVFtyaGNdME37UHoopjU822i4w
+‎0,00644599 BTC	
+bc1qh0xnmgusrzkl36msd098kmty5xsf3v
+8ps3sdpu
+bc1qh0xnmgusrzkl36msd098kmty5xsf3v8ps3sdpu
+‎0,02439000 BTC	
+165kDBCR66J25BcnCS8vfkFteo
+vcWWYD7t
+165kDBCR66J25BcnCS8vfkFteovcWWYD7t
+‎0,00061370 BTC	
+1KKCJeDn1iTPXR9uNu7ihCvGGe
+4y9kJwdQ
+1KKCJeDn1iTPXR9uNu7ihCvGGe4y9kJwdQ
+‎0,00275276 BTC	
+1EEFEcn4sMabzFDzzXUzKaS3nW
+obn57j9q
+1EEFEcn4sMabzFDzzXUzKaS3nWobn57j9q
+‎0,00489738 BTC	
+1AQYtxhYuauu5NYMFGu24rfP8v
+CAUwS1be
+1AQYtxhYuauu5NYMFGu24rfP8vCAUwS1be
+‎0,00157000 BTC	
+1PLJc9uCL5s23RtUYMXwsL5zNj
+AvVteYa3
+1PLJc9uCL5s23RtUYMXwsL5zNjAvVteYa3
+‎0,00146542 BTC	
+1JneqRErADaU1JuwgUcMBpZgWv
+68i6BaCq
+1JneqRErADaU1JuwgUcMBpZgWv68i6BaCq
+‎0,00047000 BTC	
+15KYc4WFAmFqp4HpzTKX5j7j5s
+X3mMjpfF
+15KYc4WFAmFqp4HpzTKX5j7j5sX3mMjpfF
+‎0,00085117 BTC	
+bc1qxzf3et6zlkpsdr04kz7ntualc382jt
+0sryqvm9
+bc1qxzf3et6zlkpsdr04kz7ntualc382jt0sryqvm9
+‎0,00939736 BTC	
+bc1qp3f7vnmuj4pjxpfvkvf7yznac9h9r5
+arlv4fpv
+bc1qp3f7vnmuj4pjxpfvkvf7yznac9h9r5arlv4fpv
+‎0,02335021 BTC	
