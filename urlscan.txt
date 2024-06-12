@@ -1,0 +1,74 @@
+reclaims-bia.com
+2a06:98c1:3120::3 
+Submitted URL:
+https://t.co/GZsyH747eH
+Effective URL:
+https://reclaims-bia.com/
+Submission: On May 18 via manual from MX — Scanned from DE
+Summary
+This website contacted 15 IPs in 4 countries across 13 domains to perform 78 HTTP transactions. The main IP is 2a06:98c1:3120::3, located in United States and belongs to CLOUDFLARENET, US. The main domain is reclaims-bia.com.
+TLS certificate: Issued by E1 on May 18th 2024. Valid for: 3 months. t.co scanned 10000+ times on urlscan.io
+This is the only time reclaims-bia.com was scanned on urlscan.io!
+urlscan.io Verdict: No classification
+Live information
+Google Safe Browsing: Malicious for reclaims-bia.com
+Current DNS A record: 188.114.97.3 (AS13335 - CLOUDFLARENET, US)
+Domain created: May 18th 2024, 09:48:25 (UTC)
+Domain registrar: ERANET INTERNATIONAL LIMITED
+Domain & IP information
+
+    IP/ASNs
+    IP Detail
+    Domains
+    Domain Tree
+    Links
+    Certs
+    Frames
+
+	IP Address 		AS Autonomous System
+1 	104.244.42.133 		13414 (TWITTER)
+1 2 	2602:fea2:2::1 		40680 (PROTOCOL)
+2 	104.18.11.112 		13335 (CLOUDFLARENET)
+1 	169.150.247.37 		60068 (CDN77 _)
+3 	2a06:98c1:3120::3 		13335 (CLOUDFLARENET)
+1 	2a00:1450:4001:80f::200a 		15169 (GOOGLE)
+7 	188.114.96.3 		13335 (CLOUDFLARENET)
+4 	2606:4700:4400::6812:278c 		13335 (CLOUDFLARENET)
+4 	104.18.22.142 		13335 (CLOUDFLARENET)
+4 	172.67.70.45 		13335 (CLOUDFLARENET)
+46 	104.18.28.72 		13335 (CLOUDFLARENET)
+1 	2606:4700:20::ac43:45e2 		13335 (CLOUDFLARENET)
+2 	172.67.137.185 		13335 (CLOUDFLARENET)
+1 	18.157.123.166 		16509 (AMAZON-02)
+
+
+
+
+Page URL History
+
+    https://t.co/GZsyH747eH Page URL
+    https://ipfs.io/ipfs/QmaNzFBRNX9AsZK1aMLveV1RZEcFfczR8qjWjxYBvSFctd/ Page URL
+    https://reclaims-bia.com/ Page URL
+
+Page Statistics
+78
+Requests
+99 %
+HTTPS
+36 %
+IPv6
+13
+Domains
+13
+Subdomains
+15
+IPs
+4
+Countries
+2211 kB
+Transfer
+4150 kB
+Size
+2
+Cookies
+

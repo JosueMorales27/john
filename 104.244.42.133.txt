@@ -1,0 +1,90 @@
+─(root㉿kali)-[/home/kali]
+└─# nmap -p- --open -sS --min-rate 5000 -vvv 104.244.42.133
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2024-06-10 17:19 EDT
+Initiating Ping Scan at 17:19
+Scanning 104.244.42.133 [4 ports]
+Completed Ping Scan at 17:19, 0.02s elapsed (1 total hosts)
+Initiating Parallel DNS resolution of 1 host. at 17:19
+Completed Parallel DNS resolution of 1 host. at 17:19, 11.17s elapsed
+DNS resolution of 1 IPs took 11.17s. Mode: Async [#: 3, OK: 0, NX: 0, DR: 1, SF: 2, TR: 6, CN: 0]
+Initiating SYN Stealth Scan at 17:19
+Scanning 104.244.42.133 [65535 ports]
+Discovered open port 8080/tcp on 104.244.42.133
+Discovered open port 3306/tcp on 104.244.42.133
+Discovered open port 554/tcp on 104.244.42.133
+Discovered open port 53/tcp on 104.244.42.133
+Discovered open port 22/tcp on 104.244.42.133
+Discovered open port 27972/tcp on 104.244.42.133
+Discovered open port 57509/tcp on 104.244.42.133
+Discovered open port 52361/tcp on 104.244.42.133
+Discovered open port 8348/tcp on 104.244.42.133
+Discovered open port 51732/tcp on 104.244.42.133
+Discovered open port 30444/tcp on 104.244.42.133
+Discovered open port 50748/tcp on 104.244.42.133
+Discovered open port 14781/tcp on 104.244.42.133
+Discovered open port 45722/tcp on 104.244.42.133
+Discovered open port 15203/tcp on 104.244.42.133
+Discovered open port 3469/tcp on 104.244.42.133
+Discovered open port 46410/tcp on 104.244.42.133
+Discovered open port 36124/tcp on 104.244.42.133
+Discovered open port 13985/tcp on 104.244.42.133
+Discovered open port 25955/tcp on 104.244.42.133
+Discovered open port 28890/tcp on 104.244.42.133
+Discovered open port 37157/tcp on 104.244.42.133
+Discovered open port 55570/tcp on 104.244.42.133
+Discovered open port 36399/tcp on 104.244.42.133
+Discovered open port 11084/tcp on 104.244.42.133
+Discovered open port 49032/tcp on 104.244.42.133
+Discovered open port 19523/tcp on 104.244.42.133
+Discovered open port 36735/tcp on 104.244.42.133
+Discovered open port 37478/tcp on 104.244.42.133
+Discovered open port 43440/tcp on 104.244.42.133
+Discovered open port 35836/tcp on 104.244.42.133
+Discovered open port 29421/tcp on 104.244.42.133
+Discovered open port 18044/tcp on 104.244.42.133
+Discovered open port 62333/tcp on 104.244.42.133
+SYN Stealth Scan Timing: About 34.35% done; ETC: 17:29 (0:06:43 remaining)
+Discovered open port 37580/tcp on 104.244.42.133
+Discovered open port 34009/tcp on 104.244.42.133
+adjust_timeouts2: packet supposedly had rtt of 8337530 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 8337530 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 24274031 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 24274031 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 32294581 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 32294581 microseconds.  Ignoring time.
+Discovered open port 49650/tcp on 104.244.42.133
+adjust_timeouts2: packet supposedly had rtt of 31070749 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 31070749 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 22772671 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 22772671 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 23932502 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 23932502 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 23932515 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 23932515 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 31836942 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 31836942 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 23772587 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 23772587 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 23772601 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 23772601 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 23772606 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 23772606 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 31986499 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 31986499 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 23528355 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 23528355 microseconds.  Ignoring time.
+SYN Stealth Scan Timing: About 66.19% done; ETC: 17:30 (0:03:42 remaining)
+adjust_timeouts2: packet supposedly had rtt of 31880314 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 31880314 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 23402294 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 23402294 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 23402324 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 23402324 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 23402347 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 23402347 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 31076673 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 31076673 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 31076723 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 31076723 microseconds.  Ignoring time.
+
+zsh: suspended  nmap -p- --open -sS --min-rate 5000 -vvv 104.244.42.133
