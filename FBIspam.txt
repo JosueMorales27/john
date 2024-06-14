@@ -1,0 +1,360 @@
+Attention Dear Sir/Madam,
+
+You have been shortlisted as a beneficiary of some recovered funds by the FBI, The Attention of the Federal Bureau of Investigation has been directed by the global debt committee claim department concerning your unpaid overdue Grant /Inheritance / Compensation funds. It might interest you to learn that we have fully analyzed the transaction as stipulated by The FBI Investigative Operational Guidelines and have confirmed that it is 100% genuine and hitch free, of which you have the legitimate right to start the claim process of your funds worth $6,500,000.00 Million Dollars.
+
+Contact back with the below details for more information on how to claim your fund:
+
+Full Name
+Your Current Address
+Your Occupation
+Phone Number
+A Copy Of Your Valid ID
+
+Contact On This Email: fbius@fbius1.wecom.work OR fbi.usoffice010@gmail.com
+
+Please indicate your file code when contacting [FBI113/US/024CD]
+
+Regards,
+Mr. Christopher A. Wray
+Tel: +1 (760) 446-9234
+
+
+Delivered-To: david2003jdmm@gmail.com
+Received: by 2002:ac9:4087:0:b0:534:ecc1:9e30 with SMTP id p7csp1233440ocg;
+        Thu, 13 Jun 2024 14:32:35 -0700 (PDT)
+X-Forwarded-Encrypted: i=2; AJvYcCVchs3Qr4ywTOFnAwC4hxh2XQSEnNowiHdRGqDfhy0C+eGEkYUzB+S/gMF2CcfYM2wMjJDzXmjDHSxZhcrC6ilUQZjqqEFxSw==
+X-Google-Smtp-Source: AGHT+IH2S1wefKi68qcfI8onVw+Un1KqRzLfvhOiC1pv8mEOuERAUaQCuAjh6lZHXq/TqVf1v1I0
+X-Received: by 2002:a05:6a00:4b55:b0:703:ecde:fbff with SMTP id d2e1a72fcca58-705d7105032mr1286320b3a.3.1718314355700;
+        Thu, 13 Jun 2024 14:32:35 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1718314355; cv=none;
+        d=google.com; s=arc-20160816;
+        b=lYWj/Rjod5YlgyHd03/M25wsbAEwBOg/7qzBoYrlysdPYPAOnqrEGclYPi/PIOsIFm
+         7/2zizPXDOxFBIfd1yW2zlHD7fv9vHnmoaLTriOFnDzTyttRkFF7rrKKdDx2YzN4H9KD
+         LhGuRzR8V/l76wvHV+IEluXh4vG0vRGg6kph7cRaCmuLCqkFE/6rJNLA3R2XPgn4S+Wv
+         lj5e7sCFCfvm//mCsvb3RRgSzXnmbZf6N8czGtdczbb0ldOhmnuOnAOx3w82iuJl/akG
+         nvM78yhe3J5nb5pvRG7rVAyi2nhGKhkZ5fRssvVSOi3XSb+a13l7C9QUCu7TMvtAsdsx
+         uO1w==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=sensitivity:content-transfer-encoding:mime-version:subject
+         :message-id:reply-to:from:date:dkim-signature;
+        bh=tWKcwWlns2ISn8hzdHUJtsMhh427UVMjx4oZan8bFik=;
+        fh=47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=;
+        b=VU8z0mUoyk9JmWheg27u12u2iIhNpIKOSH3mfWAFNhTGOo0oZKc682kRa/HUgIWzA3
+         2RLBxRK7/smPh8KhfEflybO87RcCxdybFqfBOpLPFW+qpT2XE/j+BwidcHnDagA2cRQu
+         38Z1KoDF0iTXl60Vo1MVgufH4oSxCv/6tbYmufgMJ3w/p5GQLZff7mdeLS0wzzA7y33o
+         b6dCurkk+LS1YgkrQN2csKTZr2Dqbq9vA8VGyHyIOfTWzjBXP1mOpUyxiSbUpjE9z01w
+         cVFL4jcjy28TnyYhznl2K0McbyupvigN2a5yI/TQbEc1sbX9RuZ/UWCEGu9zqd3DNEPZ
+         VqZg==;
+        dara=google.com
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@plala.or.jp header.s=p20240201 header.b=hCQCsSKN;
+       spf=pass (google.com: domain of lime@opal.plala.or.jp designates 60.36.166.37 as permitted sender) smtp.mailfrom=lime@opal.plala.or.jp;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=plala.or.jp
+Return-Path: <lime@opal.plala.or.jp>
+Received: from msc115.plala.or.jp (msc115.plala.or.jp. [60.36.166.37])
+        by mx.google.com with ESMTPS id 41be03b00d2f7-6fee310caf8si2116100a12.309.2024.06.13.14.32.29
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Thu, 13 Jun 2024 14:32:35 -0700 (PDT)
+Received-SPF: pass (google.com: domain of lime@opal.plala.or.jp designates 60.36.166.37 as permitted sender) client-ip=60.36.166.37;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@plala.or.jp header.s=p20240201 header.b=hCQCsSKN;
+       spf=pass (google.com: domain of lime@opal.plala.or.jp designates 60.36.166.37 as permitted sender) smtp.mailfrom=lime@opal.plala.or.jp;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=plala.or.jp
+Received: from mdkim-o03.ake-mailbk.plala.or.jp ([172.23.12.52])
+          by msc115.plala.or.jp with ESMTP
+          id <20240613213228.KCZQ18228.msc115.plala.or.jp@mdkim-o03.ake-mailbk.plala.or.jp>;
+          Fri, 14 Jun 2024 06:32:28 +0900
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+  d=plala.or.jp; q=dns/txt; s=p20240201; t=1718314348;
+  x=1749850348;
+  h=date:from:reply-to:message-id:subject:mime-version:
+   content-transfer-encoding;
+  bh=tWKcwWlns2ISn8hzdHUJtsMhh427UVMjx4oZan8bFik=;
+  b=hCQCsSKNYm9d4KfKsjacIOI677uDZFdxLGUnqv+nGaGrkFjsRyEIqkjV
+   uraf/cboVfANVM17ibqpmvEkytBhT3JFwyhX/YKvyPS1x+pb5OYNCc5Vu
+   CNoBj8UiuiYknCnizBq87Yzr/nssSdlltokVwo11QL6cyMXcZU/vTK0zK
+   6G6xe7+B06jFtoSI7Bc1OhHrAiwALUHQ1psawkJY6mXsHuH8TmMMCiUI2
+   CUczIbD/SsnXmxtc4U4NlLjtwmU4GNgrFOZm+uOKqd34Xm/yIXMk0LHpK
+   ZlBkG4n4RwAPy7R2/+IyIEipUiOtmFoyf5cNmIs4Zdm+VuXTJ0boLlXx8
+   g==;
+X-CSE-ConnectionGUID: XHwwLO29RpCp0rlu0hlyHA==
+X-CSE-MsgGUID: AR1M3WqCQKKjS+OlqzpQKA==
+Received: from msa14.ake-mailbk.plala.or.jp (HELO msa14.plala.or.jp) ([172.23.12.94])
+  by mdkim-o.ake-mailbk.plala.or.jp with ESMTP; 14 Jun 2024 06:32:28 +0900
+Received: from mwebp13 ([172.23.13.133]) by msa14.plala.or.jp with ESMTP
+          id <20240613213228.UAOW10430.msa14.plala.or.jp@mwebp13>;
+          Fri, 14 Jun 2024 06:32:28 +0900
+Date: Fri, 14 Jun 2024 06:32:26 +0900
+From: "Mr. Christopher A. Wray" <lime@opal.plala.or.jp>
+Reply-To: fbi.usoffice010@gmail.com
+Message-ID: <20240614063228.N6GIJ.473.root@mwebp13>
+Subject: Your $6,500,000.00 Compensation Relief Funds Has Been Approved To You>>>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+Sensitivity: Normal
+X-VirusScan: Outbound; mvir-ac14; Fri, 14 Jun 2024 06:32:28 +0900
+
+
+--
+Attention Dear Sir/Madam,
+
+You have been shortlisted as a beneficiary of some recovered funds by the FBI, The Attention of the Federal Bureau of Investigation has been directed by the global debt committee claim department concerning your unpaid overdue Grant /Inheritance / Compensation funds. It might interest you to learn that we have fully analyzed the transaction as stipulated by The FBI Investigative Operational Guidelines and have confirmed that it is 100% genuine and hitch free, of which you have the legitimate right to start the claim process of your funds worth $6,500,000.00 Million Dollars.
+
+Contact back with the below details for more information on how to claim your fund:
+
+Full Name
+Your Current Address
+Your Occupation 
+Phone Number
+A Copy Of Your Valid ID
+
+Contact On This Email: fbius@fbius1.wecom.work OR fbi.usoffice010@gmail.com
+
+Please indicate your file code when contacting [FBI113/US/024CD]
+
+Regards,
+Mr. Christopher A. Wray
+Tel: +1 (760) 446-9234
+Delivered-To: david2003jdmm@gmail.com
+Received: by 2002:ac9:4087:0:b0:534:ecc1:9e30 with SMTP id p7csp1233440ocg;
+        Thu, 13 Jun 2024 14:32:35 -0700 (PDT)
+X-Forwarded-Encrypted: i=2; AJvYcCVchs3Qr4ywTOFnAwC4hxh2XQSEnNowiHdRGqDfhy0C+eGEkYUzB+S/gMF2CcfYM2wMjJDzXmjDHSxZhcrC6ilUQZjqqEFxSw==
+X-Google-Smtp-Source: AGHT+IH2S1wefKi68qcfI8onVw+Un1KqRzLfvhOiC1pv8mEOuERAUaQCuAjh6lZHXq/TqVf1v1I0
+X-Received: by 2002:a05:6a00:4b55:b0:703:ecde:fbff with SMTP id d2e1a72fcca58-705d7105032mr1286320b3a.3.1718314355700;
+        Thu, 13 Jun 2024 14:32:35 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1718314355; cv=none;
+        d=google.com; s=arc-20160816;
+        b=lYWj/Rjod5YlgyHd03/M25wsbAEwBOg/7qzBoYrlysdPYPAOnqrEGclYPi/PIOsIFm
+         7/2zizPXDOxFBIfd1yW2zlHD7fv9vHnmoaLTriOFnDzTyttRkFF7rrKKdDx2YzN4H9KD
+         LhGuRzR8V/l76wvHV+IEluXh4vG0vRGg6kph7cRaCmuLCqkFE/6rJNLA3R2XPgn4S+Wv
+         lj5e7sCFCfvm//mCsvb3RRgSzXnmbZf6N8czGtdczbb0ldOhmnuOnAOx3w82iuJl/akG
+         nvM78yhe3J5nb5pvRG7rVAyi2nhGKhkZ5fRssvVSOi3XSb+a13l7C9QUCu7TMvtAsdsx
+         uO1w==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=sensitivity:content-transfer-encoding:mime-version:subject
+         :message-id:reply-to:from:date:dkim-signature;
+        bh=tWKcwWlns2ISn8hzdHUJtsMhh427UVMjx4oZan8bFik=;
+        fh=47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=;
+        b=VU8z0mUoyk9JmWheg27u12u2iIhNpIKOSH3mfWAFNhTGOo0oZKc682kRa/HUgIWzA3
+         2RLBxRK7/smPh8KhfEflybO87RcCxdybFqfBOpLPFW+qpT2XE/j+BwidcHnDagA2cRQu
+         38Z1KoDF0iTXl60Vo1MVgufH4oSxCv/6tbYmufgMJ3w/p5GQLZff7mdeLS0wzzA7y33o
+         b6dCurkk+LS1YgkrQN2csKTZr2Dqbq9vA8VGyHyIOfTWzjBXP1mOpUyxiSbUpjE9z01w
+         cVFL4jcjy28TnyYhznl2K0McbyupvigN2a5yI/TQbEc1sbX9RuZ/UWCEGu9zqd3DNEPZ
+         VqZg==;
+        dara=google.com
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@plala.or.jp header.s=p20240201 header.b=hCQCsSKN;
+       spf=pass (google.com: domain of lime@opal.plala.or.jp designates 60.36.166.37 as permitted sender) smtp.mailfrom=lime@opal.plala.or.jp;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=plala.or.jp
+Return-Path: <lime@opal.plala.or.jp>
+Received: from msc115.plala.or.jp (msc115.plala.or.jp. [60.36.166.37])
+        by mx.google.com with ESMTPS id 41be03b00d2f7-6fee310caf8si2116100a12.309.2024.06.13.14.32.29
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Thu, 13 Jun 2024 14:32:35 -0700 (PDT)
+Received-SPF: pass (google.com: domain of lime@opal.plala.or.jp designates 60.36.166.37 as permitted sender) client-ip=60.36.166.37;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@plala.or.jp header.s=p20240201 header.b=hCQCsSKN;
+       spf=pass (google.com: domain of lime@opal.plala.or.jp designates 60.36.166.37 as permitted sender) smtp.mailfrom=lime@opal.plala.or.jp;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=plala.or.jp
+Received: from mdkim-o03.ake-mailbk.plala.or.jp ([172.23.12.52])
+          by msc115.plala.or.jp with ESMTP
+          id <20240613213228.KCZQ18228.msc115.plala.or.jp@mdkim-o03.ake-mailbk.plala.or.jp>;
+          Fri, 14 Jun 2024 06:32:28 +0900
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+  d=plala.or.jp; q=dns/txt; s=p20240201; t=1718314348;
+  x=1749850348;
+  h=date:from:reply-to:message-id:subject:mime-version:
+   content-transfer-encoding;
+  bh=tWKcwWlns2ISn8hzdHUJtsMhh427UVMjx4oZan8bFik=;
+  b=hCQCsSKNYm9d4KfKsjacIOI677uDZFdxLGUnqv+nGaGrkFjsRyEIqkjV
+   uraf/cboVfANVM17ibqpmvEkytBhT3JFwyhX/YKvyPS1x+pb5OYNCc5Vu
+   CNoBj8UiuiYknCnizBq87Yzr/nssSdlltokVwo11QL6cyMXcZU/vTK0zK
+   6G6xe7+B06jFtoSI7Bc1OhHrAiwALUHQ1psawkJY6mXsHuH8TmMMCiUI2
+   CUczIbD/SsnXmxtc4U4NlLjtwmU4GNgrFOZm+uOKqd34Xm/yIXMk0LHpK
+   ZlBkG4n4RwAPy7R2/+IyIEipUiOtmFoyf5cNmIs4Zdm+VuXTJ0boLlXx8
+   g==;
+X-CSE-ConnectionGUID: XHwwLO29RpCp0rlu0hlyHA==
+X-CSE-MsgGUID: AR1M3WqCQKKjS+OlqzpQKA==
+Received: from msa14.ake-mailbk.plala.or.jp (HELO msa14.plala.or.jp) ([172.23.12.94])
+  by mdkim-o.ake-mailbk.plala.or.jp with ESMTP; 14 Jun 2024 06:32:28 +0900
+Received: from mwebp13 ([172.23.13.133]) by msa14.plala.or.jp with ESMTP
+          id <20240613213228.UAOW10430.msa14.plala.or.jp@mwebp13>;
+          Fri, 14 Jun 2024 06:32:28 +0900
+Date: Fri, 14 Jun 2024 06:32:26 +0900
+From: "Mr. Christopher A. Wray" <lime@opal.plala.or.jp>
+Reply-To: fbi.usoffice010@gmail.com
+Message-ID: <20240614063228.N6GIJ.473.root@mwebp13>
+Subject: Your $6,500,000.00 Compensation Relief Funds Has Been Approved To You>>>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+Sensitivity: Normal
+X-VirusScan: Outbound; mvir-ac14; Fri, 14 Jun 2024 06:32:28 +0900
+
+
+--
+Attention Dear Sir/Madam,
+
+You have been shortlisted as a beneficiary of some recovered funds by the FBI, The Attention of the Federal Bureau of Investigation has been directed by the global debt committee claim department concerning your unpaid overdue Grant /Inheritance / Compensation funds. It might interest you to learn that we have fully analyzed the transaction as stipulated by The FBI Investigative Operational Guidelines and have confirmed that it is 100% genuine and hitch free, of which you have the legitimate right to start the claim process of your funds worth $6,500,000.00 Million Dollars.
+
+Contact back with the below details for more information on how to claim your fund:
+
+Full Name
+Your Current Address
+Your Occupation 
+Phone Number
+A Copy Of Your Valid ID
+
+Contact On This Email: fbius@fbius1.wecom.work OR fbi.usoffice010@gmail.com
+
+Please indicate your file code when contacting [FBI113/US/024CD]
+
+Regards,
+Mr. Christopher A. Wray
+Tel: +1 (760) 446-9234
+Delivered-To: david2003jdmm@gmail.com
+Received: by 2002:ac9:4087:0:b0:534:ecc1:9e30 with SMTP id p7csp1233440ocg;
+        Thu, 13 Jun 2024 14:32:35 -0700 (PDT)
+X-Forwarded-Encrypted: i=2; AJvYcCVchs3Qr4ywTOFnAwC4hxh2XQSEnNowiHdRGqDfhy0C+eGEkYUzB+S/gMF2CcfYM2wMjJDzXmjDHSxZhcrC6ilUQZjqqEFxSw==
+X-Google-Smtp-Source: AGHT+IH2S1wefKi68qcfI8onVw+Un1KqRzLfvhOiC1pv8mEOuERAUaQCuAjh6lZHXq/TqVf1v1I0
+X-Received: by 2002:a05:6a00:4b55:b0:703:ecde:fbff with SMTP id d2e1a72fcca58-705d7105032mr1286320b3a.3.1718314355700;
+        Thu, 13 Jun 2024 14:32:35 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1718314355; cv=none;
+        d=google.com; s=arc-20160816;
+        b=lYWj/Rjod5YlgyHd03/M25wsbAEwBOg/7qzBoYrlysdPYPAOnqrEGclYPi/PIOsIFm
+         7/2zizPXDOxFBIfd1yW2zlHD7fv9vHnmoaLTriOFnDzTyttRkFF7rrKKdDx2YzN4H9KD
+         LhGuRzR8V/l76wvHV+IEluXh4vG0vRGg6kph7cRaCmuLCqkFE/6rJNLA3R2XPgn4S+Wv
+         lj5e7sCFCfvm//mCsvb3RRgSzXnmbZf6N8czGtdczbb0ldOhmnuOnAOx3w82iuJl/akG
+         nvM78yhe3J5nb5pvRG7rVAyi2nhGKhkZ5fRssvVSOi3XSb+a13l7C9QUCu7TMvtAsdsx
+         uO1w==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=sensitivity:content-transfer-encoding:mime-version:subject
+         :message-id:reply-to:from:date:dkim-signature;
+        bh=tWKcwWlns2ISn8hzdHUJtsMhh427UVMjx4oZan8bFik=;
+        fh=47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=;
+        b=VU8z0mUoyk9JmWheg27u12u2iIhNpIKOSH3mfWAFNhTGOo0oZKc682kRa/HUgIWzA3
+         2RLBxRK7/smPh8KhfEflybO87RcCxdybFqfBOpLPFW+qpT2XE/j+BwidcHnDagA2cRQu
+         38Z1KoDF0iTXl60Vo1MVgufH4oSxCv/6tbYmufgMJ3w/p5GQLZff7mdeLS0wzzA7y33o
+         b6dCurkk+LS1YgkrQN2csKTZr2Dqbq9vA8VGyHyIOfTWzjBXP1mOpUyxiSbUpjE9z01w
+         cVFL4jcjy28TnyYhznl2K0McbyupvigN2a5yI/TQbEc1sbX9RuZ/UWCEGu9zqd3DNEPZ
+         VqZg==;
+        dara=google.com
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@plala.or.jp header.s=p20240201 header.b=hCQCsSKN;
+       spf=pass (google.com: domain of lime@opal.plala.or.jp designates 60.36.166.37 as permitted sender) smtp.mailfrom=lime@opal.plala.or.jp;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=plala.or.jp
+Return-Path: <lime@opal.plala.or.jp>
+Received: from msc115.plala.or.jp (msc115.plala.or.jp. [60.36.166.37])
+        by mx.google.com with ESMTPS id 41be03b00d2f7-6fee310caf8si2116100a12.309.2024.06.13.14.32.29
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Thu, 13 Jun 2024 14:32:35 -0700 (PDT)
+Received-SPF: pass (google.com: domain of lime@opal.plala.or.jp designates 60.36.166.37 as permitted sender) client-ip=60.36.166.37;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@plala.or.jp header.s=p20240201 header.b=hCQCsSKN;
+       spf=pass (google.com: domain of lime@opal.plala.or.jp designates 60.36.166.37 as permitted sender) smtp.mailfrom=lime@opal.plala.or.jp;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=plala.or.jp
+Received: from mdkim-o03.ake-mailbk.plala.or.jp ([172.23.12.52])
+          by msc115.plala.or.jp with ESMTP
+          id <20240613213228.KCZQ18228.msc115.plala.or.jp@mdkim-o03.ake-mailbk.plala.or.jp>;
+          Fri, 14 Jun 2024 06:32:28 +0900
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+  d=plala.or.jp; q=dns/txt; s=p20240201; t=1718314348;
+  x=1749850348;
+  h=date:from:reply-to:message-id:subject:mime-version:
+   content-transfer-encoding;
+  bh=tWKcwWlns2ISn8hzdHUJtsMhh427UVMjx4oZan8bFik=;
+  b=hCQCsSKNYm9d4KfKsjacIOI677uDZFdxLGUnqv+nGaGrkFjsRyEIqkjV
+   uraf/cboVfANVM17ibqpmvEkytBhT3JFwyhX/YKvyPS1x+pb5OYNCc5Vu
+   CNoBj8UiuiYknCnizBq87Yzr/nssSdlltokVwo11QL6cyMXcZU/vTK0zK
+   6G6xe7+B06jFtoSI7Bc1OhHrAiwALUHQ1psawkJY6mXsHuH8TmMMCiUI2
+   CUczIbD/SsnXmxtc4U4NlLjtwmU4GNgrFOZm+uOKqd34Xm/yIXMk0LHpK
+   ZlBkG4n4RwAPy7R2/+IyIEipUiOtmFoyf5cNmIs4Zdm+VuXTJ0boLlXx8
+   g==;
+X-CSE-ConnectionGUID: XHwwLO29RpCp0rlu0hlyHA==
+X-CSE-MsgGUID: AR1M3WqCQKKjS+OlqzpQKA==
+Received: from msa14.ake-mailbk.plala.or.jp (HELO msa14.plala.or.jp) ([172.23.12.94])
+  by mdkim-o.ake-mailbk.plala.or.jp with ESMTP; 14 Jun 2024 06:32:28 +0900
+Received: from mwebp13 ([172.23.13.133]) by msa14.plala.or.jp with ESMTP
+          id <20240613213228.UAOW10430.msa14.plala.or.jp@mwebp13>;
+          Fri, 14 Jun 2024 06:32:28 +0900
+Date: Fri, 14 Jun 2024 06:32:26 +0900
+From: "Mr. Christopher A. Wray" <lime@opal.plala.or.jp>
+Reply-To: fbi.usoffice010@gmail.com
+Message-ID: <20240614063228.N6GIJ.473.root@mwebp13>
+Subject: Your $6,500,000.00 Compensation Relief Funds Has Been Approved To You>>>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+Sensitivity: Normal
+X-VirusScan: Outbound; mvir-ac14; Fri, 14 Jun 2024 06:32:28 +0900
+
+
+--
+Attention Dear Sir/Madam,
+
+You have been shortlisted as a beneficiary of some recovered funds by the FBI, The Attention of the Federal Bureau of Investigation has been directed by the global debt committee claim department concerning your unpaid overdue Grant /Inheritance / Compensation funds. It might interest you to learn that we have fully analyzed the transaction as stipulated by The FBI Investigative Operational Guidelines and have confirmed that it is 100% genuine and hitch free, of which you have the legitimate right to start the claim process of your funds worth $6,500,000.00 Million Dollars.
+
+Contact back with the below details for more information on how to claim your fund:
+
+Full Name
+Your Current Address
+Your Occupation 
+Phone Number
+A Copy Of Your Valid ID
+
+Contact On This Email: fbius@fbius1.wecom.work OR fbi.usoffice010@gmail.com
+
+Please indicate your file code when contacting [FBI113/US/024CD]
+
+Regards,
+Mr. Christopher A. Wray
+Tel: +1 (760) 446-9234
+Return-Path: <lime@opal.plala.or.jp>
+Received: from msc115.plala.or.jp (msc115.plala.or.jp. [60.36.166.37])
+        by mx.google.com with ESMTPS id 41be03b00d2f7-6fee310caf8si2116100a12.309.2024.06.13.14.32.29
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Thu, 13 Jun 2024 14:32:35 -0700 (PDT)
+Received-SPF: pass (google.com: domain of lime@opal.plala.or.jp designates 60.36.166.37 as permitted sender) client-ip=60.36.166.37;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@plala.or.jp header.s=p20240201 header.b=hCQCsSKN;
+       spf=pass (google.com: domain of lime@opal.plala.or.jp designates 60.36.166.37 as permitted sender) smtp.mailfrom=lime@opal.plala.or.jp;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=plala.or.jp
+Received: from mdkim-o03.ake-mailbk.plala.or.jp ([172.23.12.52])
+          by msc115.plala.or.jp with ESMTP
+          id <20240613213228.KCZQ18228.msc115.plala.or.jp@mdkim-o03.ake-mailbk.plala.or.jp>;
+          Fri, 14 Jun 2024 06:32:28 +0900
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+  d=plala.or.jp; q=dns/txt; s=p20240201; t=1718314348;
+  x=1749850348;
+  h=date:from:reply-to:message-id:subject:mime-version:
+   content-transfer-encoding;
+  bh=tWKcwWlns2ISn8hzdHUJtsMhh427UVMjx4oZan8bFik=;
+  b=hCQCsSKNYm9d4KfKsjacIOI677uDZFdxLGUnqv+nGaGrkFjsRyEIqkjV
+   uraf/cboVfANVM17ibqpmvEkytBhT3JFwyhX/YKvyPS1x+pb5OYNCc5Vu
+   CNoBj8UiuiYknCnizBq87Yzr/nssSdlltokVwo11QL6cyMXcZU/vTK0zK
+   6G6xe7+B06jFtoSI7Bc1OhHrAiwALUHQ1psawkJY6mXsHuH8TmMMCiUI2
+   CUczIbD/SsnXmxtc4U4NlLjtwmU4GNgrFOZm+uOKqd34Xm/yIXMk0LHpK
+   ZlBkG4n4RwAPy7R2/+IyIEipUiOtmFoyf5cNmIs4Zdm+VuXTJ0boLlXx8
+   g==;
+X-CSE-ConnectionGUID: XHwwLO29RpCp0rlu0hlyHA==
+X-CSE-MsgGUID: AR1M3WqCQKKjS+OlqzpQKA==
+Received: from msa14.ake-mailbk.plala.or.jp (HELO msa14.plala.or.jp) ([172.23.12.94])
+  by mdkim-o.ake-mailbk.plala.or.jp with ESMTP; 14 Jun 2024 06:32:28 +0900
+Received: from mwebp13 ([172.23.13.133]) by msa14.plala.or.jp with ESMTP
+          id <20240613213228.UAOW10430.msa14.plala.or.jp@mwebp13>;
+          Fri, 14 Jun 2024 06:32:28 +0900
+Date: Fri, 14 Jun 2024 06:32:26 +0900
+From: "Mr. Christopher A. Wray" <lime@opal.plala.or.jp>
+Reply-To: fbi.usoffice010@gmail.com
+Message-ID: <20240614063228.N6GIJ.473.root@mwebp13>
+Subject: Your $6,500,000.00 Compensation Relief Funds Has Been Approved To You>>>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+Sensitivity: Normal
+X-VirusScan: Outbound; mvir-ac14; Fri, 14 Jun 2024 06:32:28 +0900
